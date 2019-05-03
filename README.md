@@ -63,7 +63,7 @@ Also, a listed repository should be deprecated if:
     - [Policy and Regulatory](#legal-pr)
     - [Judicial](#legal-judicial)
 
-- [Public](#public)
+- [Government and Public Works](#public)
     - [Social Policies](#public-social)
     - [Election Analysis](#public-elect)
     - [Disaster Management](#public-dis)
