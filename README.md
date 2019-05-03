@@ -6,7 +6,7 @@
 </p>
 
 
-A curated list of applied business machine and business data science examples and libraries accross different industries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
+A curated list of applied machine learning and business science notebooks and libraries accross different industries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
 
 ***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in any of the industries as listed below. If you are a **[**analytical, computational, statistical, quantitive**]** researcher/analyst in field **X** or a field **X** **[**machine learning engineer, data scientist, modeler, programmer**]** then your contribution will be greatly appreciated.   
 
