@@ -81,6 +81,7 @@ Also, a listed repository should be deprecated if:
 * [Accounting Anomalies](https://github.com/GitiHubi/deepAI/blob/master/GTC_2018_Lab-solutions.ipynb) -  Using deep-learning frameworks to identify accounting anomalies.
 * [Financial Statement Anomalies](https://github.com/rameshcalamur/fin-stmt-anom) - Detecting anomalies before filing, using R.
 * [Useful Life Prediction (FirmAI)](http://www.firmai.org/documents/Aged%20Debtors/) - Predict the useful life of assets using sensor observations and feature engineering.
+* [AI Applied to XBRL](https://github.com/Niels-Peter/XBRL-AI) - Standardized representation of XBRL into AI and Machine learning.
  
 <a name="accounting-analytics"></a>
 #### Analytics
@@ -89,6 +90,7 @@ Also, a listed repository should be deprecated if:
 * [General Ledger (FirmAI)](http://www.firmai.org/documents/General%20Ledger/) - Data processing over a general ledger as exported through an accounting system.
 * [Bullet Graph (FirmAI)](http://www.firmai.org/documents/Bullet-Graph-Article/) - Bullet graph visualisation helpful for tracking sales, commission and other performance.
 * [Aged Debtors (FirmAI)](http://www.firmai.org/documents/Aged%20Debtors/) - Example analysis to invetigate aged debtors.
+* [Automated FS XBRL](https://github.com/CharlesHoffmanCPA/charleshoffmanCPA.github.io) - XML Language, however, possibly port analysis into Python.
 
 <a name="accounting-text"></a>
 #### Textual Analysis
