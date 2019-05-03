@@ -86,8 +86,7 @@ Also, a listed repository should be deprecated if:
 <a name="accounting-analytics"></a>
 #### Analytics
 
-* [Forensic Accounting](https://github.com/mschermann/forensic_accounting) - Collection of case studies on forensic accounting using data analysis.  
-<font size="3">On the lookout for more data to practise forensic accounting, please get in touch</font> 
+* [Forensic Accounting](https://github.com/mschermann/forensic_accounting) - Collection of case studies on forensic accounting using data analysis.  *On the lookout for more data to practise forensic accounting, please get in [touch](https://github.com/mschermann/)* 
 * [General Ledger (FirmAI)](http://www.firmai.org/documents/General%20Ledger/) - Data processing over a general ledger as exported through an accounting system.
 * [Bullet Graph (FirmAI)](http://www.firmai.org/documents/Bullet-Graph-Article/) - Bullet graph visualisation helpful for tracking sales, commission and other performance.
 * [Aged Debtors (FirmAI)](http://www.firmai.org/documents/Aged%20Debtors/) - Example analysis to invetigate aged debtors.
