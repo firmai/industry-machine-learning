@@ -22,7 +22,7 @@ Also, a listed repository should be deprecated if:
 **Help Needed:** If there is any contributors out there willing to help first populate and then maintain a Python analytics section **in any one of the following sub/industries,** please get in contact with me.
 
 </br>
-
+|                                  |                                  |                                   |
 | -------------------------------- | -------------------------------- | --------------------------------- |
 | Accommodation & Food             | Agriculture & Forestry           | Banking & Insurance               |
 | Biotechnological & Life Sciences | Construction & Engineering       | Education & Research              |
