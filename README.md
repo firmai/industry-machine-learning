@@ -26,7 +26,6 @@ Also, a listed repository should be deprecated if:
 
 
 | Accommodation & Food             | Agriculture & Forestry           | Banking & Insurance               |
-| -------------------------------- | -------------------------------- | --------------------------------- |
 | Biotechnological & Life Sciences | Construction & Engineering       | Education & Research              |
 | Emergency & Police               | Entertainment, Recreation & Arts | Goods & Manufacturing             |
 | Government and Public Works      | Healthcare and Social Assitance  | Media & Publishing                |
