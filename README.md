@@ -23,7 +23,7 @@ Also, a listed repository should be deprecated if:
 
 </br>
 
-___________________________________________________________________________________________________________
+| -------------------------------- | -------------------------------- | --------------------------------- |
 | Accommodation & Food             | Agriculture & Forestry           | Banking & Insurance               |
 | Biotechnological & Life Sciences | Construction & Engineering       | Education & Research              |
 | Emergency & Police               | Entertainment, Recreation & Arts | Goods & Manufacturing             |
