@@ -1,4 +1,4 @@
-# Industry Machine Learning and Data Science Applications 
+# Machine Learning and Data Science Applications in Industry
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20list%20of%20Python%20Notebooks%20for%20business%20applications&url=https://github.com/firmai/industry-machine-learning&via=dereknow&hashtags=ML,AI,Python,business)
 
 <p align="center">
