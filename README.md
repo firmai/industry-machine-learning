@@ -380,13 +380,6 @@ Also, a listed repository should be deprecated if:
 - [Glaciers](https://github.com/OGGM/oggm-edu) - Educational material about glaciers.
 
 
-----------
-
-Plants, animals, organisms, biology
-— you did not do anything in the protein section here. And from predicting enhancers. https://github.com/hussius/deeplearning-biology
-
-
-
 ## Construction & Engineering
 
 **Construction**
@@ -405,13 +398,12 @@ Plants, animals, organisms, biology
 
 **Engineering:**
 
-[Structural Analysis](https://github.com/ritchie46/anaStruct) - 2D Structural Analysis in Python. 
-[Structural Engineering](https://github.com/buddyd16/Structural-Engineering) - Structural engineering modules.
-[Nusa](https://github.com/JorgeDeLosSantos/nusa) - Structural analysis using the finite element method.
-[StructPy](https://github.com/BrianChevalier/StructPy) - Structural Analysis Library for Python based on the direct stiffness method
-[Aileron](https://github.com/albiboni/AileronSimulation) - Structural analysis of the aileron of a Boeing 737
-[Vibration](https://github.com/vibrationtoolbox/vibration_toolbox) - Educational vibration programs. 
-
+- [Structural Analysis](https://github.com/ritchie46/anaStruct) - 2D Structural Analysis in Python. 
+- [Structural Engineering](https://github.com/buddyd16/Structural-Engineering) - Structural engineering modules.
+- [Nusa](https://github.com/JorgeDeLosSantos/nusa) - Structural analysis using the finite element method.
+- [StructPy](https://github.com/BrianChevalier/StructPy) - Structural Analysis Library for Python based on the direct stiffness method
+- [Aileron](https://github.com/albiboni/AileronSimulation) - Structural analysis of the aileron of a Boeing 737
+- [Vibration](https://github.com/vibrationtoolbox/vibration_toolbox) - Educational vibration programs. 
 - [Civil](https://github.com/ebrahimraeyat/Civil) - Collection of civil engineering tools in FreeCAD
 - [GEstimator](https://github.com/manuvarkey/GEstimator) - Simple civil estimation software
 - [Fatpack](https://github.com/Gunnstein/fatpack) - Functions and classes for fatigue analysis of data series.
@@ -466,7 +458,6 @@ Plants, animals, organisms, biology
 - [Quant Econ](https://github.com/jstac/quantecon_nyu_2016) - Quantitative economics course by NYU
 - [Computational](https://github.com/zhentaoshi/econ5170) - Computational methods in economics. 
 - [Computational 2](https://github.com/QuantEcon/columbia_mini_course) - Small course in computational economics. 
-- 
 - [Econometric Theory](https://github.com/jstac/econometrics/tree/master/notebooks) - Notebooks of A Primer on Econometric theory. 
 
 
@@ -555,7 +546,7 @@ Plants, animals, organisms, biology
 ## Finance
 
 **Trading and Investment** 
-For more see [financial-machine-learning](https://github.com/firmai/financial-machine-learning)
+- For **more** see [financial-machine-learning](https://github.com/firmai/financial-machine-learning)
 
 
 - [Deep Portfolio](https://github.com/DLColumbia/DL_forFinance) - Deep learning for finance Predict volume of bonds.
@@ -689,10 +680,8 @@ For more see [financial-machine-learning](https://github.com/firmai/financial-ma
 **Art**
 
 - [Painting Forensics](https://github.com/ivan-bilan/Painting_Forensics) - Analysing paintings to find out their year of creation. 
-- Remember painting valuation - get it in here too. 
 
-
-- **Tourism**
+**Tourism**
 - [Flickr](https://github.com/xiaofei6677/TourismFlickrMiner) - Metadata mining tool for tourism research. 
 - [Fashion](https://github.com/khanhnamle1994/fashion-recommendation) **-** A clothing retrieval and visual recommendation model for fashion images
 
@@ -815,13 +804,6 @@ For more see [financial-machine-learning](https://github.com/firmai/financial-ma
 - [Housing Uni vs Non-Uni](https://github.com/5x12/pwc_europe_data_analytics_hackathon) - The effect on university lodging after the GFC.
 - [Predict Household Poverty](https://github.com/Featuretools/predict-household-poverty) -  Predict the poverty of households in Costa Rica using automated feature engineering.
 - [Airbnb public analytics competition](http://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/AirbnbReport2016Jan.html): - Now strategic management. 
-- 
-
-
-
-----------
-
-Warehousing probably means inventory demand too.
 
 
 ## Utilities
