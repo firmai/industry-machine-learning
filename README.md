@@ -126,9 +126,10 @@ Also, a listed repository should be deprecated if:
 
 <!-- /MarkdownTOC -->
 
-
+<a name="accommodation"></a>
 ## Accommodation & Food
 
+<a name="accommodation-food"></a>
 **Food**
 
 - [RobotChef](https://github.com/bschreck/robo-chef) - Refining recipes based on user reviews.
@@ -139,6 +140,7 @@ Also, a listed repository should be deprecated if:
 - [Calorie Estimation](https://github.com/jubins/DeepLearning-Food-Image-Recognition-And-Calorie-Estimation) - Estimate calories from photos of food. 
 - [Fine Food Reviews](https://github.com/Architectshwet/Amazon-Fine-Food-Reviews) - Sentiment analysis on Amazon Fine Food Reviews. 
 
+<a name="accommodation-rest"></a>
 **Restaurant** 
 
 - [Restaurant Violation](https://github.com/nd1/DC_RestaurantViolationForecasting) - Food inspection violation forecasting. 
@@ -158,8 +160,7 @@ Also, a listed repository should be deprecated if:
 - [Food Price](https://gist.github.com/analyticsindiamagazine/f9b2ba171a0eef9ad396ce6f1b83bbbc) - Predict food cost. 
 - [Automated Restaurant Report](https://github.com/firmai/interactive-corporate-report) - Automated machine learning company report.
 
-**Accommodation**
-
+<a name="accommodation-acc
 - [Peer-to-Peer Housing](https://github.com/rochiecuevas/shared_accommodations) - The effect of peer to peer  rentals on housing. 
 - [Roommate Recommendation](https://github.com/SiddheshAcharekar/Liveright) - A system for students seeking roommates. 
 - [Room Allocation](https://github.com/nus-usp/room-allocation) - Room allocation process. 
