@@ -185,14 +185,14 @@ Also, a listed repository should be deprecated if:
 <a name="bankfin-cv"></a>
 #### Consumer Finance
 
-* [Loan Acceptance](https://github.com/Paresh3189/Bankruptcy-Prediction-Growth-Modelling) - Classification and time-series analysis for loan acceptance. 
-* [Predict Loan Repayment](https://github.com/Featuretools/predict-loan-repayment) - Predict whether a loan will be repaid using automated feature engineering.
-* [Loan Eligibility Ranking](https://github.com/RealRadOne/Gyani-The-Loan-Eligibility-Predictor) - System to help the banks check if a customer is eligible for a given loan.
-* [Home Credit Default (FirmAI)](http://www.firmai.org/documents/Aggregator/#each-time-step-takes-30-seconds) - Predict home credit default. 
-* [Mortgage Analytics](https://github.com/abuchowdhury/Mortgage_Bank_Loan_Analtsics/blob/master/Mortgage%20Bank%20Loan%20Analytics.ipynb) - Extensive mortgage loan analytics.
-* [Credit Approval](https://github.com/IBM-Cloud-DevFest-2018/Data-Science-for-Banking/blob/master/02-CreditCardApprovalModel/CreditCardApprovalModel.ipynb) - A system for credit card approval. 
-* [Loan Risk](https://github.com/Brett777/Predict-Risk) - Predictive model to help to reduce charge-offs and losses of loans. 
-* [Amortisation Schedule (FirmAI)](http://www.firmai.org/documents/Amortization%20Schedule/) - Simple amortisation schedule in python for personal use.  
+- [Loan Acceptance](https://github.com/Paresh3189/Bankruptcy-Prediction-Growth-Modelling) - Classification and time-series analysis for loan acceptance.
+- [Predict Loan Repayment](https://github.com/Featuretools/predict-loan-repayment) - Predict whether a loan will be repaid using automated feature engineering.
+- [Loan Eligibility Ranking](https://github.com/RealRadOne/Gyani-The-Loan-Eligibility-Predictor) - System to help the banks check if a customer is eligible for a given loan.
+- [Home Credit Default (FirmAI)](http://www.firmai.org/documents/Aggregator/#each-time-step-takes-30-seconds) - Predict home credit default.
+- [Mortgage Analytics](https://github.com/abuchowdhury/Mortgage_Bank_Loan_Analtsics/blob/master/Mortgage%20Bank%20Loan%20Analytics.ipynb) - Extensive mortgage loan analytics.
+- [Credit Approval](https://github.com/IBM-Cloud-DevFest-2018/Data-Science-for-Banking/blob/master/02-CreditCardApprovalModel/CreditCardApprovalModel.ipynb) - A system for credit card approval.
+- [Loan Risk](https://github.com/Brett777/Predict-Risk) - Predictive model to help to reduce charge-offs and losses of loans.
+- [Amortisation Schedule (FirmAI)](http://www.firmai.org/documents/Amortization%20Schedule/) - Simple amortisation schedule in python for personal use.
 
 
 <a name="bankfin-mo"></a>
