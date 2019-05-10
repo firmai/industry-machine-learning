@@ -230,9 +230,10 @@ Also, a listed repository should be deprecated if:
 * [Accounting in a Digital Era](https://www.youtube.com/playlist?list=PLauepKFT6DK8_Xun584UQPPsg1grYkWw0) - Another series by Rutgers investigating the effects the digital age will have on accounting.
 
 
-
+<a name="agriculture"></a>
 ## Agriculture
 
+<a name="agriculture-econ"></a>
 **Economics**
 
 - [Prices](https://github.com/deadskull7/Agricultural-Price-Prediction-and-Visualization-on-Android-App) - Agricultural price prediction. 
@@ -241,6 +242,7 @@ Also, a listed repository should be deprecated if:
 - [Recovery](https://github.com/vicelab/slaer) - Strategic land use for agriculture and ecosystem recovery
 - [MPR](https://github.com/gumballhead/mpr) - Mandatory Price Reporting data from the USDA's Agricultural Marketing Service.
 
+<a name="agriculture-dev"></a>
 **Development**
 
 - [Segmentation](https://github.com/chrieke/InstanceSegmentation_Sentinel2) - Agricultural field parcel segmentation using satellite images. 
@@ -324,8 +326,10 @@ Also, a listed repository should be deprecated if:
 * [ATM Surveillance](https://github.com/ShreyaGupta08/InfyHack) - ATM Surveillance in banks use case.
 
 
+<a name="biotech"></a>
 ## Biotechnological & Life Sciences
 
+<a name="biotech-general"></a>
 **General**
 
 - [Programming](https://github.com/burkesquires/python_biologist) - Python Programming for Biologists
@@ -341,12 +345,14 @@ Also, a listed repository should be deprecated if:
 - [Cell Movement](https://github.com/jrieke/lstm-biology) - LSTM to predict biological cell movement.
 - [Deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 
+<a name="biotech-seq"></a>
 **Sequencing** 
 
 - [DNA, RNA and Protein Sequencing](https://github.com/ehsanasgari/Deep-Proteomics) - Anew representation for biological sequences using DL.
 - [CNN Sequencing](https://github.com/budach/pysster) - A toolbox for learning motifs from DNA/RNA sequence data using convolutional neural networks
 - [NLP Sequencing](https://github.com/hussius/deeplearning-biology) - Language transfer learning model for genomics
 
+<a name="biotech-chem"></a>
 **Chemoinformatics and drug discovery**
 
 - [Novel Molecules](https://github.com/HIPS/neural-fingerprint) - A convolutional net that can learn features.
@@ -355,6 +361,7 @@ Also, a listed repository should be deprecated if:
 - [RL](https://github.com/MarcusOlivecrona/REINVENT) - generating compounds predicted to be active against a biological target.
 - [One-shot learning](https://github.com/deepchem/deepchem) - Python library that aims to make the use of machine-learning in drug discovery straightforward and convenient.
 
+<a name="biotech-gene"></a>
 **Genomics**
 
 - [Jupyter Genomics](https://github.com/ucsd-ccbb/jupyter-genomics) -  Collection of computation biology and bioinformatics notebooks. 
@@ -364,6 +371,7 @@ Also, a listed repository should be deprecated if:
 - [Gene Expression Inference](https://github.com/uci-cbcl/D-GEX) - Predict the expression of specified target genes from a panel of about 1,000 pre-selected “landmark genes”. 
 - [Plant Genomics](https://github.com/widdowquinn/Teaching-EMBL-Plant-Path-Genomics) - Presentation and example material for *Plant* and Pathogen Genomics
 
+<a name="biotech-life"></a>
 **Life-sciences**
 
 - [Plants Disease](https://github.com/viritaromero/Plant-diseases-classifier) - App that detects diseases in *plants* using a deep learning model.
@@ -379,8 +387,10 @@ Also, a listed repository should be deprecated if:
 - [Glaciers](https://github.com/OGGM/oggm-edu) - Educational material about glaciers.
 
 
+<a name="construction"></a>
 ## Construction & Engineering
 
+<a name="construction-con"></a>
 **Construction**
 
 - [DL Architecture](https://github.com/carolineh101/deep-learning-architecture) - Deep learning classifier and image generator for building architecture.
@@ -395,6 +405,7 @@ Also, a listed repository should be deprecated if:
 - [Building Violations](https://github.com/dariusmehri/Predictive-Analysis-of-Building-Violations) - Predictive analysis of building violations. 
 - [Productivity](https://github.com/dariusmehri/Inspection-Productivity-Analysis-and-Visualization-with-Tableau) - Productivity analysis and inspection with Tableau. 
 
+<a name="construction-eng"></a>
 **Engineering:**
 
 - [Structural Analysis](https://github.com/ritchie46/anaStruct) - 2D Structural Analysis in Python. 
@@ -424,6 +435,7 @@ Also, a listed repository should be deprecated if:
 - [Nuclear Radiation](https://github.com/HitarthiShah/Radiation-Data-Analysis) - How people are affected by radiations emitted by nuclear power plants
 
 
+<a name="construction-mat"></a>
 **Material Science**
 
 
@@ -437,9 +449,10 @@ Also, a listed repository should be deprecated if:
 - [Steel](https://github.com/hbutsuak95/Quality-Optimization-of-Steel) - Optimisation of steel. 
 
 
-
+<a name="economics"></a>
 ## Economics
 
+<a name="economics-general"></a>
 **General**
 
 - [Trading Economics API](https://github.com/tradingeconomics/tradingeconomics) -  Information for 196 countries.
@@ -447,11 +460,13 @@ Also, a listed repository should be deprecated if:
 - [Applied Econ & Fin](https://github.com/lnsongxf/Applied_Computational_Economics_and_Finance/blob/master/Chapter05.ipynb) - Applied Computational Economics and Finance
 - [Macroeconomics](https://github.com/jlperla/ECON407_2018) - Topics in macroeconomics with notebook examples. 
 
+<a name="economics-ml"></a>
 **Machine Learning**
 
 - [EconML](https://github.com/microsoft/EconML) - Automated Learning and Intelligence for Causation and *Economics.*
 - [Auctions](https://github.com/saisrivatsan/deep-opt-auctions) - Optimal auctions using deep learning. 
 
+<a name="economics-comp"></a>
 **Computational**
 
 - [Quant Econ](https://github.com/jstac/quantecon_nyu_2016) - Quantitative economics course by NYU
@@ -459,9 +474,10 @@ Also, a listed repository should be deprecated if:
 - [Computational 2](https://github.com/QuantEcon/columbia_mini_course) - Small course in computational economics. 
 - [Econometric Theory](https://github.com/jstac/econometrics/tree/master/notebooks) - Notebooks of A Primer on Econometric theory. 
 
-
+<a name="education"></a>
 ## Education & Research
 
+<a name="education-student"></a>
 **Student**
 
 - [Student Performance](https://github.com/roshank1605A04/Education-Process-Mining) - Mining student performance using machine learning. 
@@ -473,6 +489,7 @@ Also, a listed repository should be deprecated if:
 - [Academic Performance](https://github.com/janzaib-masood/Educational-Data-Mining) - Explore the demographic and family features that have an impact a student's academic performance. 
 - [Grade Analysis](https://github.com/kaumaron/Data_Science/tree/master/Grade_Analysis) - Student achievement analysis. 
 
+<a name="education-school"></a>
 **School**
 
 - [School Choice](https://github.com/nprapps/school-choice) - Data analysis for education's school choice.
@@ -490,8 +507,11 @@ Also, a listed repository should be deprecated if:
 - [Budget NLP 2](https://github.com/DivyaMadhu/School-Budget-Prediction) - Further classification exercise. 
 - [Budget NLP 3](https://github.com/sushant2811/SchoolBudgetData/blob/master/SchoolBudgetData.ipynb) - Budget classification. 
 - [Survey Analysis](https://github.com/kaumaron/Data_Science/tree/master/Education) - Education survey analysis. 
+
+<a name="emergency"></a>
 ## Emergency & Police
 
+<a name="emergency-prevent"></a>
 **Preventative and Reactive**
 
 - [Emergency Mapping](https://github.com/aeronetlab/emergency-mapping) -  Detection of destroyed houses in California 
@@ -505,6 +525,7 @@ Also, a listed repository should be deprecated if:
 - [Calls Data Analysis](https://github.com/tanoybhattacharya/911-Data-Analysis) - 911 data analysis. 
 - [Emergency Response](https://github.com/amunategui/Leak-At-Chemical-Factory-RL) - Chemical factory RL. 
 
+<a name="emergency-crime"></a>
 **Crime**
 
 - [Crime Classification](https://github.com/datadesk/lapd-crime-classification-analysis) -  Times analysis of serious assaults misclassified by LAPD.
@@ -518,6 +539,7 @@ Also, a listed repository should be deprecated if:
 - [Crime Trends](https://github.com/benjaminsingleton/crime-trends) -  The *Crime* Trends Analysis Tool analyses *crime* trends and surfaces problematic *crime* conditions
 - [Crime Analytics](https://github.com/cmenguy/crime-analytics) - Analysis of *crime* data in Seattle and San Francisco.
 
+<a name="emergency-ambulance"></a>
 **Ambulance:**
 
 - [Ambulance Analysis](https://github.com/kaiareyes/ambulance) - An investigation of Local Government Area ambulance time variation in Victoria.
@@ -529,6 +551,7 @@ Also, a listed repository should be deprecated if:
 - [Crash Analysis](https://github.com/ArpitVora/Maryland_Crash) - Predicting the probability of accidents on a given segment on a given time.
 
 
+<a name="emergency-disaster"></a>
 **Disaster Management**
 
 - [Conflict Prediction](https://github.com/Polichinel/Master_Thesis) - Notebooks on conflict prediction.
@@ -541,10 +564,10 @@ Also, a listed repository should be deprecated if:
 - [Fire Prediction](https://github.com/Senkichi/The_Catastrophe_Coefficient) - We used 4 different algorithms to predict the likelihood of future fires.
 
 
-
+<a name="finance"></a>
 ## Finance
 
-
+<a name="finance-trading"></a>
 **Trading and Investment** 
 - For **more** see [financial-machine-learning](https://github.com/firmai/financial-machine-learning)
 - [Deep Portfolio](https://github.com/DLColumbia/DL_forFinance) - Deep learning for finance Predict volume of bonds.
@@ -572,6 +595,7 @@ Also, a listed repository should be deprecated if:
 - [ML & RL NYU](https://github.com/joelowj/Machine-Learning-and-Reinforcement-Learning-in-Finance) - Machine Learning and Reinforcement Learning in Finance. 
 
 
+<a name="finance-data"></a>
 **Data**
 
 - [Datastream](https://github.com/mbravidor/PyDSout) - Datastrem from Thomson Reuters accessible through Python. 
@@ -584,10 +608,11 @@ Also, a listed repository should be deprecated if:
 - [Rating Industries](http://www.ratingshistory.info/)
 
 
+<a name="healtcare"></a>
 ## Healthcare
 
+<a name="healtcare-general"></a>
 **General**
-
 
 - [zEpid](https://github.com/pzivich/zEpid)  - Epidemiology analysis package.
 - [Python For Epidemiologists](https://github.com/pzivich/Python-for-Epidemiologists) - Tutorial to introduce epidemiology analysis in Python. 
@@ -637,9 +662,10 @@ Also, a listed repository should be deprecated if:
 - [Some Computational AI Course](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw) - Video series Law MIT.
 
 
-
+<a name="manufacturing"></a>
 ## Manufacturing
 
+<a name="manufacturing-general"></a>
 **General**
 
 - [Green Manufacturing](https://github.com/Danila89/kaggle_mercedes) - Mercedes-Benz Greener *Manufacturing* competition on Kaggle. 
@@ -647,12 +673,14 @@ Also, a listed repository should be deprecated if:
 - [Smart Manufacturing](https://github.com/usnistgov/modelmeth) - Shared work of a modelling Methodology.
 - [Bosh Manufacturing](https://github.com/han-yan-ds/Kaggle-Bosch) - Bosh manufacturing project, Kaggle. 
 
+<a name="manufacturing-maintenance"></a>
 **Maintenance**
 
 - [Predictive Maintenance](https://github.com/Azure/lstms_for_predictive_maintenance) 1 - Predict remaining useful life of aircraft engines
 - [Predictive Maintenance 2](https://github.com/Samimust/predictive-maintenance) - Time-To-Failure (TTF) or Remaining Useful Life (RUL) 
 - [Manufacturing Maintenance](https://github.com/m-hoff/maintsim) - Simulation of maintenance in *manufacturing* systems. 
 
+<a name="manufacturing-fail"></a>
 **Failure**
 
 - [Predictive Analytics](https://github.com/IBM/iot-predictive-analytics) - Method for Predicting failures in Equipment using Sensor data.
@@ -661,6 +689,7 @@ Also, a listed repository should be deprecated if:
 - [Manufacturing Failures](https://github.com/aayushmudgal/Reducing-Manufacturing-Failures) - Reducing manufacturing failures. 
 - [Manufacturing Anomalies](https://github.com/mohan-mj/Manufacturing-Line-I4.0) - Intelligent anomaly detection for *manufacturing* line. 
 
+<a name="manufacturing-quality"></a>
 **Quality**
 
 - [Quality Control](https://github.com/buzz11/productionFailures) - Bosh failure of quality control. 
@@ -668,9 +697,10 @@ Also, a listed repository should be deprecated if:
 - [Auto Manufacturing](https://github.com/trentwoodbury/ManufacturingAuctionRegression) -  Regression Case Study Project on *Manufacturing* Auction Sale Data.
 
 
-
+<a name="media"></a>
 ## Media & Publishing
 
+<a name="media-marketing"></a>
 **Marketing**
 
 - [Video Popularity](https://github.com/andrei-rizoiu/hip-popularity) - HIP model for predicting the popularity of videos.
@@ -681,20 +711,27 @@ Also, a listed repository should be deprecated if:
 - [Social Mining](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) - Mining the social web. 
 
 
+<a name="miscellaneous"></a>
 ## Miscellaneous
 
+<a name="miscellaneous-art"></a>
 **Art**
 
 - [Painting Forensics](https://github.com/ivan-bilan/Painting_Forensics) - Analysing paintings to find out their year of creation. 
 
+
+<a name="miscellaneous-tour"></a>
 **Tourism**
 - [Flickr](https://github.com/xiaofei6677/TourismFlickrMiner) - Metadata mining tool for tourism research. 
 - [Fashion](https://github.com/khanhnamle1994/fashion-recommendation) **-** A clothing retrieval and visual recommendation model for fashion images
 
 
 
+<a name="physics"></a>
 ## Physics
 
+
+<a name="physics-general"></a>
 **General**
 
 - [Gamma-hadron Reconstruction](https://github.com/fvisconti/gammas_machine_learning) - Tools used in Gamma-ray ground based astronomy. 
@@ -706,6 +743,8 @@ Also, a listed repository should be deprecated if:
 - [Medical Physics 2](https://github.com/pymedphys/pymedphys) - A common, core Python package for Medical *Physics*
 - [Flow Physics](https://github.com/FPAL-Stanford-University/FloATPy) - Flow *Physics* and Aeroacoustics Toolbox with Python
 
+
+<a name="physics-ml"></a>
 **Machine Learning**
 
 - [Physics ML and Stats](https://github.com/dkirkby/MachineLearningStatistics) - Machine learning and statistics for physicists
@@ -741,6 +780,7 @@ Also, a listed repository should be deprecated if:
 - [Staffing Wall](https://github.com/ryanschaub/The-U.S.-Mexican-Border-Wall-and-Staffing-A-Statistical-Approach-) - Independent exploration project on U.S. Mexican Border wall
 - [Worker Fatalities](https://github.com/zischwartz/workerfatalities) - Worker Fatalities and Catastrophes Map from OSHA data
 
+<a name="public-charity"></a>
 **Charities**
 
 - [Census Data API](https://github.com/johnfwhitesell/CensusPull/blob/master/Census_ACS5_Pull.ipynb) - Pull variables from the 5-year American Community Survey.
@@ -759,18 +799,7 @@ Also, a listed repository should be deprecated if:
 - [Voting System](https://github.com/nealmcb/pr_voting_methods) - Proportional representation voting methods. 
 - [President Vote](https://github.com/austinbrian/portfolio/blob/master/tax_votes/president_counties.ipynb) - Vote by income level analysis.. 
 
-
-<a name="public-dis"></a>
-#### Disaster Management
-* [Conflict Prediction](https://github.com/Polichinel/Master_Thesis) - Notebooks on conflict prediction.
-* [Burglary Prediction](https://github.com/Polichinel/Master_Thesis) - Spatio-Temporal Modelling for burglary prediction. 
-* [Predicting Disease Outbreak](https://github.com/ab-bh/Disease-Outbreak-Prediction/blob/master/Disease%20Outbreak%20Prediction.ipynb) - Machine Learning implementation based on multiple classifier algorithm implementations.
-* [Road accident prediction](https://github.com/leportella/federal-road-accidents) - Prediction on type of victims on federal road accidents in Brazil.
-* [Text Mining](https://github.com/rajaswa/Disaster-Management-) - Disaster Management using Text mining.
-* [Twitter and disasters](https://github.com/paultopia/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb) - Try to correctly predict whether tweets that are about disasters..
-
-
-
+<a name="public-politics"></a>
 **Politics**
 
 - [Congressional politics](https://github.com/kaumaron/Data_Science/tree/master/Congressional_Partisanship) - House and senate congressional partisanship. 
@@ -790,8 +819,10 @@ Also, a listed repository should be deprecated if:
 - [Political Ideology](https://github.com/albertwebson/Political-Vector-Projector) - Unsupervised learning of *political* ideology by word vector projections
 
 
+<a name="realestate"></a>
 ## Real Estate, Rental & Leasing
 
+<a name="realestate-real"></a>
 **Real Estate**
 
 - [Finding Donuts](https://github.com/GretelDePaepe/FindingDonuts) - Finding real estate opportunities by predicting transforming neighbourhoods. 
@@ -803,6 +834,7 @@ Also, a listed repository should be deprecated if:
 - [Zillow Prediction](https://github.com/eswar3/Zillow-prediction-models) - Zillow valuation prediction as performed on Kaggle.
 - [Real Estate](https://github.com/denadai2/real-estate-neighborhood-prediction) - Predicting real estate prices from the urban environment.
 
+<a name="realestate-rent"></a>
 **Rental & Leasing**
 
 - [Analysing Rentals](https://github.com/ual/rental-listings) - Analyzing and visualizing rental listings data. 
@@ -812,8 +844,10 @@ Also, a listed repository should be deprecated if:
 - [Airbnb public analytics competition](http://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/AirbnbReport2016Jan.html): - Now strategic management. 
 
 
+<a name="utilities"></a>
 ## Utilities
 
+<a name="utilities-elec"></a>
 **Electricity**
 
 - [Electricity Price](https://github.com/luqmanhakim/research-on-sp-wholesale/blob/master/research-on-sp-wholesale-plan.ipynb) - Electricity price comparison Singapore. 
@@ -831,7 +865,7 @@ Also, a listed repository should be deprecated if:
 - Wind Farm Flow - https://github.com/FUSED-Wind/FUSED-Wake
 - Power Plant - https://github.com/YungChunLu/UCI-Power-Plant
 
-
+<a name="utilities-coal"></a>
 **Coal, Oil & Gas**
 
 - [Coal Phase Out](https://github.com/samarthiith/DE_CoalPhaseOut) - Generation adequacy issues with Germany’s coal phaseout. 
@@ -842,6 +876,7 @@ Also, a listed repository should be deprecated if:
 - [Consumption Forecasting](https://github.com/williamadams1/natural-gas-consumption-forecasting) - Natural gas consumption forecasting. 
 - [Gas Trade](https://github.com/bahuisman/NatGasModel) - World Model for *Natural* *Gas* Trade.
 
+<a name="utilities-water"></a>
 **Water & Pollution**
 
 - [Safe Water](https://github.com/codeforboston/safe-water) - Predict health-based drinking water violations in the United States.
@@ -855,6 +890,7 @@ Also, a listed repository should be deprecated if:
 - [Water Accounting](https://github.com/johnpfay/USWaterAccounting) - Assembles water budget data for the US from existing data source
 - [Air Quality Prediction](https://github.com/txytju/air-quality-prediction) - Predict air quality(aq) in Beijing and London in the next 48 hours.
 
+<a name="utilities-trans"></a>
 **Transportation**
 
 - [Transdim](https://github.com/xinychen/transdim) - Creating accurate and efficient solutions for the spatio-temporal traffic data imputation and prediction tasks.
@@ -874,9 +910,10 @@ Also, a listed repository should be deprecated if:
 - [Replenishment](https://github.com/pratishthakapoor/RetailReplenishement/tree/master/Code) - Retail replenishment code for supply chain management.
 
 
-
+<a name="wholesale"></a>
 ## Wholesale & Retail
 
+<a name="wholesale-whole"></a>
 **Wholesale**
 
 - [Customer Analysis](https://github.com/kralmachine/WholesaleCustomerAnalysis) - Wholesale customer analysis.
@@ -884,6 +921,7 @@ Also, a listed repository should be deprecated if:
 - [Clustering](https://github.com/prakhardogra921/Clustering-Analysis-on-customers-of-a-wholesale-distributor) -  Unsupervised learning techniques are applied on product spending data collected for customers 
 - [Market Basket Analysis](https://github.com/tstreamDOTh/Instacart-Market-Basket-Analysis) - Instacart public dataset to report which products are often shopped together.
 
+<a name="wholesale-retail"></a>
 **Retail**
 
 - [Retail Analysis](https://github.com/SarahMestiri/online-retail-case) - Studying Online *Retail* Dataset and getting insights from it.
