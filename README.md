@@ -304,8 +304,6 @@ Also, a listed repository should be deprecated if:
 - [Claim Fraud](https://github.com/rshea3/alpha-insurance) -  Predictive models to determine which automobile claims are fraudulent. 
 - [Claims Anomalies](https://github.com/dchannah/fraudhacker) - Anomaly detection system for medical insurance claims data.
 - [Actuarial Sciences (R)](https://github.com/JSchelldorfer/ActuarialDataScience) - A range of actuarial tools in R.
-
-
 - [Bank Failure](https://github.com/Shomona/Bank-Failure-Prediction/blob/master/Bank.ipynb) - Predicting bank failure.
 - [Risk Management](https://github.com/andrey-lukyanov/Risk-Management) - Finance risk engagement course resources.
 - [VaR GaN](https://github.com/hamaadshah/market_risk_gan_keras) - Estimate Value-at-Risk for market risk management using Keras and TensorFlow.
