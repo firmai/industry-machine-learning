@@ -126,6 +126,55 @@ Also, a listed repository should be deprecated if:
 
 <!-- /MarkdownTOC -->
 
+
+## Accommodation & Food
+
+**Food**
+
+- [RobotChef](https://github.com/bschreck/robo-chef) - Refining recipes based on user reviews.
+- [Food Amenities](https://github.com/Ankushr785/Food-amenities-demand-prediction) - Predicting the demand for food amenities using neural networks 
+- [Recipe Cuisine and Rating](https://github.com/catherhuang/FP3-recipe) - Predict the rating and type of cuisine from a list of ingredients. 
+- [Food Classification](https://github.com/stratospark/food-101-keras) - Classification using Keras. 
+- [Image to Recipe](https://github.com/Murgio/Food-Recipe-CNN) - Translate an image to a recipe using deep learning. 
+- [Calorie Estimation](https://github.com/jubins/DeepLearning-Food-Image-Recognition-And-Calorie-Estimation) - Estimate calories from photos of food. 
+- [Fine Food Reviews](https://github.com/Architectshwet/Amazon-Fine-Food-Reviews) - Sentiment analysis on Amazon Fine Food Reviews. 
+
+**Restaurant** 
+
+- [Restaurant Violation](https://github.com/nd1/DC_RestaurantViolationForecasting) - Food inspection violation forecasting. 
+- [Restaurant Success](https://github.com/alifier/Restaurant_success_model) - Predict whether a restaurant is going to fail. 
+- [Predict Michelin](https://github.com/josephofiowa/dc-michelin-challenge/tree/master/submissions) - Predict the likelihood that restaurant is a Michelin restaurant. 
+- [Restaurant Inspection](https://github.com/gzsuyu/Data-Analysis-NYC-Restaurant-Inspection-Data) - An inspection analysis to see if cleanliness is related to rating.
+- [Sales](https://github.com/gzsuyu/Data-Analysis-NYC-Restaurant-Inspection-Data) - Restaurant sales forecasting with LTSM.
+- [Visitor Forecasting](https://github.com/anki1909/Recruit-Restaurant-Visitor-Forecasting) - Reservation and visitation number prediction. 
+- [Restaurant Profit](https://github.com/everAspiring/RegressionAnalysis) - Restaurant regression analysis. 
+- [Competition](https://github.com/klin90/missinglink) - Restaurant competitiveness analysis.
+- [Business Analysis](https://github.com/nvodoor/RBA) - Restaurant business analysis project.  
+- [Location Recommendation](https://github.com/sanatasy/Restaurant_Risk) - Restaurant location recommendation tool and analysis. 
+- [Closure, Rating and Recommendation](https://github.com/Lolonon/Restaurant-Analytical-Solution)  -  Three prediction tasks using Yelp data. 
+- [Anti-recommender](https://github.com/Myau5x/anti-recommender) - Find restaurants you don’t want to attend. 
+- [Menu Analysis](https://github.com/bzjin/menus) - Deeper analysis of restaurants through their menus. 
+- [Menu Recommendation](https://github.com/rphaneendra/Menu-Similarity) - NLP to recommend restaurants with similar menus. 
+- [Food Price](https://gist.github.com/analyticsindiamagazine/f9b2ba171a0eef9ad396ce6f1b83bbbc) - Predict food cost. 
+- [Automated Restaurant Report](https://github.com/firmai/interactive-corporate-report) - Automated machine learning company report.
+
+**Accommodation**
+
+- [Peer-to-Peer Housing](https://github.com/rochiecuevas/shared_accommodations) - The effect of peer to peer  rentals on housing. 
+- [Roommate Recommendation](https://github.com/SiddheshAcharekar/Liveright) - A system for students seeking roommates. 
+- [Room Allocation](https://github.com/nus-usp/room-allocation) - Room allocation process. 
+- [Dynamic Pricing](https://github.com/marcotav/hotels) - Hotel dynamic pricing calculations. 
+- [Hotel Similarity](https://github.com/Montclair-State-University-Info368/Assignment-6) - Compare brands that directly compete
+- [Hotel Reviews](https://github.com/EliadProject/Hotels-Data-Science) - Cluster hotel reviews. 
+- [Predict Prices](https://github.com/morenobcn/capstone_hotels_arcpy) - Predict hotel room rates. 
+- [Hotels vs Airbnb](https://github.com/morenobcn/hotels_vs_airbnb_proof_of_concept) - Comparing the two approaches. 
+- [Hotel Improvement](https://github.com/argha48/smarthotels) - Analyse reviews to suggest hotel improvements. 
+- [Orders](https://github.com/Hasan330/Order-Cancellation-Prediction-Model) - Order  cancellation prediction for hotels. 
+- [Fake Reviews](https://github.com/danielmachinelearning/HotelSpamDetection) - Identify whether reviews are fake/spam. 
+- [Reverse Image Lodging](https://github.com/starfoe/Eye-bnb) - Find your preferred lodging by uploading an image. 
+
+
+
 <a name="accounting"></a>
 ## Accounting
 
@@ -179,6 +228,29 @@ Also, a listed repository should be deprecated if:
 * [Computer Augmented Accounting](https://www.youtube.com/playlist?list=PLauepKFT6DK8TaNaq_SqZW4LIDJhCkZe2) - A video series from Rutgers University looking at the use of computation to improve accounting.
 * [Accounting in a Digital Era](https://www.youtube.com/playlist?list=PLauepKFT6DK8_Xun584UQPPsg1grYkWw0) - Another series by Rutgers investigating the effects the digital age will have on accounting.
 
+
+
+## Agriculture
+
+**Economics**
+
+- [Prices](https://github.com/deadskull7/Agricultural-Price-Prediction-and-Visualization-on-Android-App) - Agricultural price prediction. 
+- [Prices 2](https://github.com/Vipul115/Statistical-Time-Series-Analysis-on-Agricultural-Commodity-Prices)  - Agricultural price prediction.  
+- [Yield](https://github.com/DFS-UCU/UkrainianAgriculture) - Agricultural analysis looking at crop yields in Ukraine. 
+- [Recovery](https://github.com/vicelab/slaer) - Strategic land use for agriculture and ecosystem recovery
+- [MPR](https://github.com/gumballhead/mpr) - Mandatory Price Reporting data from the USDA's Agricultural Marketing Service.
+
+**Development**
+
+- [Segmentation](https://github.com/chrieke/InstanceSegmentation_Sentinel2) - Agricultural field parcel segmentation using satellite images. 
+- [Water Table](https://github.com/jfzhang95/LSTM-water-table-depth-prediction) - Predicting water table depth in agricultural areas. 
+- [Assistant](https://github.com/surajmall/Agriculture-Assistant/tree/master/models) - Notebooks from agricultural assistant. 
+- [Eco-evolutionary](https://github.com/tecoevo/agriculture) - Eco-evolutionary dynamics. 
+- [Diseases](https://github.com/gauravmunjal13/Agriculture) - Identification of crop diseases and pests using Deep Learning framework from the images.
+- [Irrigation and Pest Prediction](https://github.com/divyam3897/agriculture) - Analyse irrigation and predict pest likelihood. 
+
+
+
 <a name="bankfin"></a>
 ## Banking & Insurance
 
@@ -198,35 +270,52 @@ Also, a listed repository should be deprecated if:
 <a name="bankfin-mo"></a>
 #### Management and Operation
 
-* [Credit Card](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/03_ipy_notebooks/clv_prediction.ipynb) - Estimate the CLV of credit card customers. 
-* [Survival Analysis](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/01_code/01_02_clv_survival/Survival_Analysis.py) - Perform a survival analysis of customers.
-* [Next Transaction](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/01_code/01_02_clv_survival/Customer_NextTransaction_Prediction.py) - Deep learning model to predict the transaction amount and days to next transaction. 
-* [Credit Card Churn](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/01_code/01_02_clv_survival/Customer_NextTransaction_Prediction.py) - Predicting credit card customer churn.  
-* [Bank of England  Minutes](https://github.com/sekhansen/mpc_minutes_demo/blob/master/information_retrieval.ipynb) - Textual analysis over bank minutes. 
+- [Credit Card](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/03_ipy_notebooks/clv_prediction.ipynb) - Estimate the CLV of credit card customers.
+- [Survival Analysis](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/01_code/01_02_clv_survival/Survival_Analysis.py) - Perform a survival analysis of customers.
+- [Next Transaction](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/01_code/01_02_clv_survival/Customer_NextTransaction_Prediction.py) - Deep learning model to predict the transaction amount and days to next transaction.
+- [Credit Card Churn](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/01_code/01_02_clv_survival/Customer_NextTransaction_Prediction.py) - Predicting credit card customer churn.
+- [Bank of England Minutes](https://github.com/sekhansen/mpc_minutes_demo/blob/master/information_retrieval.ipynb) - Textual analysis over bank minutes.
+- [CEO](https://github.com/kaumaron/Data_Science/tree/master/CEO_Compensation) - Analysis of CEO compensation. 
 
 <a name="bankfin-value"></a>
 #### Valuation
 
-* [Zillow Prediction](https://github.com/eswar3/Zillow-prediction-models) - Zillow valuation prediction as performed on Kaggle. 
-* [Real Estate](https://github.com/denadai2/real-estate-neighborhood-prediction) - Predicting real estate prices from the urban environment.
-* [Used Car](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/P1-UsedVehiclePricePrediction.ipynb) - Used vehicle price prediction.
+- [Zillow Prediction](https://github.com/eswar3/Zillow-prediction-models) - Zillow valuation prediction as performed on Kaggle.
+- [Real Estate](https://github.com/denadai2/real-estate-neighborhood-prediction) - Predicting real estate prices from the urban environment.
+- [Used Car](https://nbviewer.jupyter.org/github/albahnsen/PracticalMachineLearningClass/blob/master/exercises/P1-UsedVehiclePricePrediction.ipynb) - Used vehicle price prediction.
 
 
 <a name="bankfin-fraud"></a>
 #### Fraud
 
-* [XGBoost](https://github.com/KSpiliop/Fraud_Detection) - Fraud Detection by tuning XGBoost hyper-parameters with Simulated Annealing
-* [Fraud Detection Loan in R](https://github.com/longtng/frauddetectionproject/blob/master/A%20Consideration%20Point%20of%20%20Fraud%20Detection%20in%20Bank%20Loans%20Project%20Code.ipynb) - Fraud detection in bank loans.
-* [AML Finance Due Diligence](https://github.com/Michaels72/AML-Due-Diligence/blob/master/AML_Finance_DD.ipynb) - Search news articles to do finance AML DD.
-* [Credit Card Fraud](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/03_ipy_notebooks/fraud_detection.ipynb) - Detecting credit card fraud. 
+- [XGBoost](https://github.com/KSpiliop/Fraud_Detection) - Fraud Detection by tuning XGBoost hyper-parameters with Simulated Annealing
+- [Fraud Detection Loan in R](https://github.com/longtng/frauddetectionproject/blob/master/A%20Consideration%20Point%20of%20%20Fraud%20Detection%20in%20Bank%20Loans%20Project%20Code.ipynb) - Fraud detection in bank loans.
+- [AML Finance Due Diligence](https://github.com/Michaels72/AML-Due-Diligence/blob/master/AML_Finance_DD.ipynb) - Search news articles to do finance AML DD.
+- [Credit Card Fraud](https://github.com/am-aditya/Artificial-Intelligence-for-Banking/blob/master/03_ipy_notebooks/fraud_detection.ipynb) - Detecting credit card fraud.
 
 <a name="bankfin-ir"></a>
 #### Insurance and Risk
 
-* [Bank Failure ](https://github.com/Shomona/Bank-Failure-Prediction/blob/master/Bank.ipynb) - Predicting bank failure. 
-* [Risk Management](https://github.com/andrey-lukyanov/Risk-Management) - Finance risk engagement course resources. 
-* [VaR GaN](https://github.com/hamaadshah/market_risk_gan_keras) - Estimate Value-at-Risk for market risk management using Keras and TensorFlow.
-* [Actuarial Sciences (R)](https://github.com/JSchelldorfer/ActuarialDataScience) - A range of actuarial tools in R. 
+
+- [Car Damage Detective](https://github.com/neokt/car-damage-detective) - Assessing car damage with convolution neural networks for a personal auto *claims.*
+- [Medical Insurance Claims](https://github.com/roshank1605A04/Insurance-Claim-Prediction/blob/master/InsuranceClaim.ipynb) - Predicting medical insurance claims. 
+- Anomaly 
+- [Claim Denial](https://github.com/slegroux/claimdenial/blob/master/Claim%20Denial.ipynb) - Predicting insurance claim denial
+- [Claim Fraud](https://github.com/rshea3/alpha-insurance) -  Predictive models to determine which automobile claims are fraudulent. 
+- [Claims Anomalies](https://github.com/dchannah/fraudhacker) - Anomaly detection system for medical insurance claims data.
+- [Actuarial Sciences (R)](https://github.com/JSchelldorfer/ActuarialDataScience) - A range of actuarial tools in R.
+
+
+- [Bank Failure](https://github.com/Shomona/Bank-Failure-Prediction/blob/master/Bank.ipynb) - Predicting bank failure.
+- [Risk Management](https://github.com/andrey-lukyanov/Risk-Management) - Finance risk engagement course resources.
+- [VaR GaN](https://github.com/hamaadshah/market_risk_gan_keras) - Estimate Value-at-Risk for market risk management using Keras and TensorFlow.
+- [Compliance](https://github.com/SaiBiswas/Bank-Grievance-Compliance-Management/blob/master/The%20Main%20File.ipynb) - Bank Grievance Compliance Management.  
+- [Stress Testing](https://github.com/apbecker/Systemic_Risk/blob/master/Generalized.ipynb) - ECB stress testing.
+- [Stress Testing Techniques](https://github.com/kaitai/stress-testing-with-jupyter/blob/master/Playing%20with%20financial%20data%20and%20Python%203.ipynb) - A notebook with various stress testing exercises. 
+- [Reverse Stress Test](https://github.com/arcadynovosyolov/reverse_stress_testing/blob/master/reverse_stress_testing.ipynb) - Given a portfolio and a predefined loss size, determine which factors stress (scenarios) would lead to that loss
+- [BoE stress test](https://github.com/VankatPetr/BoE_stress_test/blob/master/BoE_stress_test_5Y_cummulative_imparment_charge.ipynb)- Stress test results and plotting. 
+- [Recovery](https://github.com/hkacmaz/Bankin_Recovery/blob/master/Banking_Recovery.ipynb) - Recovery of money owed. 
+- [Quality Control](https://github.com/mick-zhang/Quality-Control-for-Banking-using-LDA-and-LDA-Mallet) - Quality control for banking using LDA
 
 
 <a name="bankfin-ph"></a>
@@ -235,13 +324,288 @@ Also, a listed repository should be deprecated if:
 * [Bank Note Fraud Detection](https://github.com/apoorv-goel/Bank-Note-Authentication-Using-DNN-Tensorflow-Classifier-and-RandomForest) - Bank Note Authentication Using DNN Tensorflow Classifier and RandomForest.
 * [ATM Surveillance](https://github.com/ShreyaGupta08/InfyHack) - ATM Surveillance in banks use case.
 
-<a name="bankfin-data"></a>
-#### Data
 
-* [Employee Count SEC Filings](https://github.com/healthgradient/sec_employee_information_extraction) 
-* [SEC Parsing](https://github.com/healthgradient/sec-doc-info-extraction/blob/master/classify_sections_containing_relevant_information.ipynb) 
-* [Open Edgar](https://github.com/LexPredict/openedgar) 
-* [Rating Industries](http://www.ratingshistory.info/) 
+## Biotechnological & Life Sciences
+
+**General**
+
+- [Programming](https://github.com/burkesquires/python_biologist) - Python Programming for Biologists
+- [Introduction DL](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr) - A Primer on Deep Learning in Genomics
+- [Pose](https://github.com/talmo/leap) - Estimating animal poses using DL.
+- [Privacy](https://github.com/greenelab/SPRINT_gan) - Privacy preserving NNs for clinical data sharing. 
+- [Population Genetics](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004845) - DL for population genetic inference. 
+- [Bioinformatics Course](https://github.com/ricket-sjtu/bioinformatics) - Course materials for Computational *Biology*and Bioinformatics
+- [Applied Stats](https://github.com/waldronlab/AppStatBio) - Applied Statistics for High-Throughput *Biology*
+- [Scripts](https://github.com/mingzhangyang/Mybiotools) - Python scripts for biologists. 
+- [Molecular NN](https://github.com/mitmedialab/Evolutron) - A mini-framework to build and train neural networks for molecular *biology*.
+- [Systems Biology Simulations](https://github.com/hallba/WritingSimulators) - Systems *biology* practical on writing simulators with F# and Z3
+- [Cell Movement](https://github.com/jrieke/lstm-biology) - LSTM to predict biological cell movement.
+- [Deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+
+**Sequencing** 
+
+- [DNA, RNA and Protein Sequencing](https://github.com/ehsanasgari/Deep-Proteomics) - Anew representation for biological sequences using DL.
+- [CNN Sequencing](https://github.com/budach/pysster) - A toolbox for learning motifs from DNA/RNA sequence data using convolutional neural networks
+- [NLP Sequencing](https://github.com/hussius/deeplearning-biology) - Language transfer learning model for genomics
+
+**Chemoinformatics and drug discovery**
+
+- [Novel Molecules](https://github.com/HIPS/neural-fingerprint) - A convolutional net that can learn features.
+- [Automating Chemical Design](https://github.com/aspuru-guzik-group/chemical_vae) - Generate new molecules for efficient exploration.
+- [GAN drug Discovery](https://github.com/gablg1/ORGAN) - A method that combines generative models with reinforcement learning.
+- [RL](https://github.com/MarcusOlivecrona/REINVENT) - generating compounds predicted to be active against a biological target.
+- [One-shot learning](https://github.com/deepchem/deepchem) - Python library that aims to make the use of machine-learning in drug discovery straightforward and convenient.
+
+**Genomics**
+
+- [Jupyter Genomics](https://github.com/ucsd-ccbb/jupyter-genomics) -  Collection of computation biology and bioinformatics notebooks. 
+- [Variant calling](https://github.com/google/deepvariant) - Correctly identify variations from the reference genome in an individual's DNA.
+- [Gene Expression Graphs](https://github.com/mila-iqia/gene-graph-conv) - Using convolutions on an image. 
+- [Autoencoding Expression](https://github.com/greenelab/adage) - Extracting relevant patterns from large sets of gene expression data
+- [Gene Expression Inference](https://github.com/uci-cbcl/D-GEX) - Predict the expression of specified target genes from a panel of about 1,000 pre-selected “landmark genes”. 
+- [Plant Genomics](https://github.com/widdowquinn/Teaching-EMBL-Plant-Path-Genomics) - Presentation and example material for *Plant* and Pathogen Genomics
+
+**Life-sciences**
+
+- [Plants Disease](https://github.com/viritaromero/Plant-diseases-classifier) - App that detects diseases in *plants* using a deep learning model.
+- [Leaf Identification](https://github.com/AayushG159/Plant-Leaf-Identification) - Identification of *plants* through *plant* leaves on the basis of their shape, color and texture.
+- [Crop Analysis](https://github.com/openalea/eartrack) - An imaging library to detect and track future position of ears on maize *plants*
+- [Seedlings](https://github.com/mfsatya/PlantSeedlings-Classification) - *Plant* Seedlings Classification from kaggle competition
+- [Plant Stress](http://An ontology containing plant stresses; biotic and abiotic.) -  An ontology containing *plant* stresses; biotic and abiotic.
+- [Animal Hierarchy](https://github.com/sacul-git/hierarpy) - Package for calculating *animal* dominance hierarchies.
+- [Animal Identification](https://github.com/A7med01/Deep-learning-for-Animal-Identification) - Deep learning for animal identification. 
+- [Species](https://github.com/NomaanAhmed/BigData_AnimalSpeciesAnalysis) - Big Data analysis of different species of *animals*
+- [Animal Vocalisations](https://github.com/timsainb/AVGN) - A generative network for animal vocalizations
+- [Evolutionary](https://github.com/hardmaru/estool) - Evolution Strategies Tool
+- [Glaciers](https://github.com/OGGM/oggm-edu) - Educational material about glaciers.
+
+
+----------
+
+Plants, animals, organisms, biology
+— you did not do anything in the protein section here. And from predicting enhancers. https://github.com/hussius/deeplearning-biology
+
+
+
+## Construction & Engineering
+
+**Construction**
+
+- [DL Architecture](https://github.com/carolineh101/deep-learning-architecture) - Deep learning classifier and image generator for building architecture.
+- [Construction Materials](https://github.com/damontallen/Construction-materials) - A course on construction materials. 
+- [Bad Actor Risk Model](https://github.com/dariusmehri/Social-Network-Bad-Actor-Risk-Tool) - Risk model to improve construction related building safety
+- [Inspectors](https://github.com/dariusmehri/Tracking-Inspectors-with-Euclidean-Distance-Algorithm) - Determine the assigned inspections. 
+- [Corrupt Social Interactions](https://github.com/dariusmehri/Social-Network-Analysis-to-Expose-Corruption) - Uncover potential corrupt social interactions between an industry member and the staff at the DOB
+- [Risk Construction](https://github.com/dariusmehri/Risk-Screening-Tool-to-Predict-Accidents-at-Construction-Sites) - Identify high risk construction. 
+- [Facade Risk](https://github.com/dariusmehri/Algorithm-for-Finding-Buildings-with-Facade-Risk) - A risk model to predict unsafe facades.
+- [Staff Levels](https://github.com/dariusmehri/Predicting-Staff-Levels-for-Front-line-Workers) - Predicting staff levels for front line workers.  
+- [Injuries](https://github.com/dariusmehri/Topic-Modeling-and-Analysis-of-Building-Related-Injuries) - Building related injuries topic modelling. 
+- [Building Violations](https://github.com/dariusmehri/Predictive-Analysis-of-Building-Violations) - Predictive analysis of building violations. 
+- [Productivity](https://github.com/dariusmehri/Inspection-Productivity-Analysis-and-Visualization-with-Tableau) - Productivity analysis and inspection with Tableau. 
+
+**Engineering:**
+
+[Structural Analysis](https://github.com/ritchie46/anaStruct) - 2D Structural Analysis in Python. 
+[Structural Engineering](https://github.com/buddyd16/Structural-Engineering) - Structural engineering modules.
+[Nusa](https://github.com/JorgeDeLosSantos/nusa) - Structural analysis using the finite element method.
+[StructPy](https://github.com/BrianChevalier/StructPy) - Structural Analysis Library for Python based on the direct stiffness method
+[Aileron](https://github.com/albiboni/AileronSimulation) - Structural analysis of the aileron of a Boeing 737
+[Vibration](https://github.com/vibrationtoolbox/vibration_toolbox) - Educational vibration programs. 
+
+- [Civil](https://github.com/ebrahimraeyat/Civil) - Collection of civil engineering tools in FreeCAD
+- [GEstimator](https://github.com/manuvarkey/GEstimator) - Simple civil estimation software
+- [Fatpack](https://github.com/Gunnstein/fatpack) - Functions and classes for fatigue analysis of data series.
+- [Pysteel](https://github.com/yajnab/pySteel) - Automated design of different steel structure 
+- [Structural Uncertainty](https://github.com/davidsteinar/structural-uncertainty) - Quantifying structural uncertainty with deep learning.
+- [Pymech](https://github.com/jellespijker/pymech) - A Python module for mechanical engineers
+- [Aerospace Engineering](https://github.com/AlvaroMenduina/Jupyter_Notebooks/tree/master/Introduction_Aerospace_Engineering) - Astrodynamics and Statistics
+- [Interactive Quantum Chemistry](https://github.com/psi4/psi4numpy) - Combining Psi4 and Numpy for education and development.
+- [Chemical and Process Engineering](https://github.com/CAChemE/learn) - Various resources.
+- [PyTherm](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics) - Applied Thermodynamics 
+- [Aerogami](https://github.com/kshitizkhanal7/Aerogami) - Aerodynamics using planes.
+- [Electro geophysics](https://github.com/geoscixyz/em-apps) - Interactive applications for electromagnetics in geophysics
+- [Graph Signal](https://github.com/mdeff/pygsp_tutorial_graphsip) - Graph signal processing tutorial.
+- [Mechanical Vibrations](https://github.com/DocVaughan/MCHE485---Mechanical-Vibrations) -  Mechanical Vibrations at the Univsersity of Louisiana.
+- [Process Dynamics](https://github.com/OpenChemE/CHBE356) - Process Dynamics and Control
+- [Battery Life Cycle](https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation) - Data driven prediction of batter life cycle. 
+- [Wind Energy](https://github.com/DTUWindEnergy/Python4WindEnergy) - Python for wind energy
+- [Energy Use](https://github.com/openeemeter/eemeter/blob/master/scripts/tutorial.ipynb) - Standard methods for calculating normalized metered energy consumption
+- [Nuclear Radiation](https://github.com/HitarthiShah/Radiation-Data-Analysis) - How people are affected by radiations emitted by nuclear power plants
+
+
+**Material Science**
+
+
+- [Python Materials Genomics](https://github.com/materialsproject/pymatgen/) - Robust material analysis code used in a well-established project.
+- [Materials Mining](https://github.com/dchannah/materials_mining) - Scripts for simulations and analysis of materials.
+- [Emmet](https://github.com/materialsproject/emmet) - Build databases of material properties. 
+- [Megnet](https://github.com/materialsvirtuallab/megnet) - Graph networks as a ML framework for Molecules and Crystals
+- [Atomate](https://github.com/hackingmaterials/atomate) - Pre-built workflows for computational material science.
+- [Bylaws Compliance](https://github.com/Mehranov/UnderstandingAndPredictingPropertyMaintenanceFines/blob/master/Assignment4_complete.ipynb) - Predicting property fines. 
+- [Asphalt Binder](https://github.com/sierraporta/asphalt_binder) - Construction materials, free energy and chemical composition of asphalt binder.
+- [Steel](https://github.com/hbutsuak95/Quality-Optimization-of-Steel) - Optimisation of steel. 
+
+
+
+## Economics
+
+**General**
+
+- [Trading Economics API](https://github.com/tradingeconomics/tradingeconomics) -  Information for 196 countries.
+- [Development Economics](https://github.com/jhconning/Dev-II/tree/master/notebooks) - Development microeconomics are written mostly as interactive jupyter notebooks
+- [Applied Econ & Fin](https://github.com/lnsongxf/Applied_Computational_Economics_and_Finance/blob/master/Chapter05.ipynb) - Applied Computational Economics and Finance
+- [Macroeconomics](https://github.com/jlperla/ECON407_2018) - Topics in macroeconomics with notebook examples. 
+
+**Machine Learning**
+
+- [EconML](https://github.com/microsoft/EconML) - Automated Learning and Intelligence for Causation and *Economics.*
+- [Auctions](https://github.com/saisrivatsan/deep-opt-auctions) - Optimal auctions using deep learning. 
+
+**Computational**
+
+- [Quant Econ](https://github.com/jstac/quantecon_nyu_2016) - Quantitative economics course by NYU
+- [Computational](https://github.com/zhentaoshi/econ5170) - Computational methods in economics. 
+- [Computational 2](https://github.com/QuantEcon/columbia_mini_course) - Small course in computational economics. 
+- 
+- [Econometric Theory](https://github.com/jstac/econometrics/tree/master/notebooks) - Notebooks of A Primer on Econometric theory. 
+
+
+## Education & Research
+
+**Student**
+
+- [Student Performance](https://github.com/roshank1605A04/Education-Process-Mining) - Mining student performance using machine learning. 
+- [Student Performance 2](https://github.com/janzaib-masood/Educational-Data-Mining) - Student exam performance.
+- [Student Performance 3](https://github.com/RohithYogi/Student-Performance-Prediction) - Student achievement in secondary education.
+- [Student Performance 4](https://github.com/roshank1605A04/Students-Performance-Analytics) - Students Performance Evaluation using Feature Engineering
+- [Student Intervention](https://github.com/eloyekunle/student_intervention/blob/master/student_intervention.ipynb) - Building a student intervention system. 
+- [Student Enrolment](https://github.com/arrahman17/Learning-Analytics-Project-) - Student enrolment and performance analysis. 
+- [Academic Performance](https://github.com/janzaib-masood/Educational-Data-Mining) - Explore the demographic and family features that have an impact a student's academic performance. 
+- [Grade Analysis](https://github.com/kaumaron/Data_Science/tree/master/Grade_Analysis) - Student achievement analysis. 
+
+**School**
+
+- [School Choice](https://github.com/nprapps/school-choice) - Data analysis for education's school choice.
+- [School Budgets and Priorities](https://github.com/tullyvelte/SchoolPerformanceDataAnalysis) - Helping the school board and mayor make strategic decisions regarding future school budgets and priorities
+- [School Performance](https://github.com/bradleyrobinson/School-Performance) - Data analysis practice using data from data.utah.gov on school performance.
+- [School Performance 2](https://github.com/vtyeh/pandas-challenge) - Using pandas to analyze school and student performance within a district
+- [School Performance 3](https://github.com/benattix/philly-schools) - Philadelphia School Performance
+- [School Performance 4](https://github.com/adrianakopf/NJPublicSchools) - NJ School Performance
+- [School Closure](https://github.com/whugue/school-closure) - Identify schools at risk for closure by performance and other characteristics.
+- [School Budgets](https://github.com/datacamp/course-resources-ml-with-experts-budgets/blob/master/notebooks/1.0-full-model.ipynb) - Tools and techniques for school budgeting. 
+- [School Budgets](https://github.com/nymarya/school-budgets-for-education/tree/master/notebooks) - Same as a above, datacamp. 
+- [PyCity](https://github.com/JonathanREB/Budget_SchoolsAnalysis/blob/master/PyCitySchools_starter.ipynb) - School analysis. 
+- [PyCity 2](https://github.com/1davegalloway/SchoolDistrictAnalysis)  - School budget vs school results. 
+- [Budget NLP](https://github.com/jinsonfernandez/NLP_School-Budget-Project) - NLP classification for budget resources. 
+- [Budget NLP 2](https://github.com/DivyaMadhu/School-Budget-Prediction) - Further classification exercise. 
+- [Budget NLP 3](https://github.com/sushant2811/SchoolBudgetData/blob/master/SchoolBudgetData.ipynb) - Budget classification. 
+- [Survey Analysis](https://github.com/kaumaron/Data_Science/tree/master/Education) - Education survey analysis. 
+## Emergency & Police
+
+**Preventative and Reactive**
+
+- [Emergency Mapping](https://github.com/aeronetlab/emergency-mapping) -  Detection of destroyed houses in California 
+- [Emergency Room](https://github.com/roshetty/Supporting-Emergency-Room-Decision-Making-with-Relevant-Scientific-Literature) -  Supporting em*ergency r*oom decision making
+- [Emergency Readmission](https://github.com/mesgarpour/T-CARER) - Adjusted Risk of *Emergency* Readmission. 
+- [Forest Fire](https://github.com/LeadingIndiaAI/Forest-Fire-Detection-through-UAV-imagery-using-CNNs) - Forest fire detection through UAV imagery using CNNs
+- [Emergency Response](https://github.com/sky-t/hack-or-emergency-response) - Emergency response analysis. 
+- [Emergency Transportation](https://github.com/bayesimpact/bayeshack-transportation-ems) - Transportation prompt on *emergency* services
+- [Emergency Dispatch](https://github.com/jamesypeng/Smarter-Emergency-Dispatch) - Reducing response times with predictive modeling, optimization, and automation
+- [Emergency Calls](https://github.com/analystiu/LICT-Project-Emergency-911-Calls) - Emergency calls analysis project. 
+- [Calls Data Analysis](https://github.com/tanoybhattacharya/911-Data-Analysis) - 911 data analysis. 
+- [Emergency Response](https://github.com/amunategui/Leak-At-Chemical-Factory-RL) - Chemical factory RL. 
+
+**Crime**
+
+- [Crime Classification](https://github.com/datadesk/lapd-crime-classification-analysis) -  Times analysis of serious assaults misclassified by LAPD.
+- [Article Tagging](https://github.com/chicago-justice-project/article-tagging) - Natural Language Processing of Chicago news article
+- [Crime Analysis](https://github.com/chrisPiemonte/crime-analysis) - Association Rule Mining from Spatial Data for *Crime* Analysis
+- [Chicago Crimes](https://github.com/search?o=desc&q=crime+language%3A%22Jupyter+Notebook%22+NOT+%22taxi%22+NOT+%22baseline%22&s=stars&type=Repositories) - Exploring public Chicago *crimes* data set in Python
+- [Graph Analytics](https://github.com/pedrohserrano/graph-analytics-nederlands) - The Hague Crimes.
+- [Crime Prediction](https://github.com/vikram-bhati/PAASBAAN-crime-prediction) - *Crime* classification, analysis & prediction in Indore city.
+- [Crime Prediction](https://github.com/tina31726/Crime-Prediction) - Developed predictive models for *crime* rate.
+- [Crime Review](https://github.com/felzek/Crime-Review-Data-Analysis) - Crime review data analysis. 
+- [Crime Trends](https://github.com/benjaminsingleton/crime-trends) -  The *Crime* Trends Analysis Tool analyses *crime* trends and surfaces problematic *crime* conditions
+- [Crime Analytics](https://github.com/cmenguy/crime-analytics) - Analysis of *crime* data in Seattle and San Francisco.
+
+**Ambulance:**
+
+- [Ambulance Analysis](https://github.com/kaiareyes/ambulance) - An investigation of Local Government Area ambulance time variation in Victoria.
+- [Site Location](https://github.com/ankitkariryaa/ambulanceSiteLocation) - Ambulance site locations. 
+- [Dispatching](https://github.com/DimaStoyanov/Ambulance-Dispatching) - Applying game theory and discrete event simulation to find optimal solution for ambulance dispatching
+- [Ambulance Allocation](https://github.com/scngo/SD-ambulance-allocation) - Time series analysis of ambulance dispatches in the City of San Diego.
+- [Response Time](https://github.com/nonsignificantp/ambulance-response-time) - An analysis on the improvements of ambulance response time.
+- [Optimal Routing](https://github.com/aditink/EMSRouting) - Project to find optimal routing of ambulances in Ithaca.
+- [Crash Analysis](https://github.com/ArpitVora/Maryland_Crash) - Predicting the probability of accidents on a given segment on a given time.
+
+
+**Disaster Management**
+
+- [Conflict Prediction](https://github.com/Polichinel/Master_Thesis) - Notebooks on conflict prediction.
+- [Burglary Prediction](https://github.com/Polichinel/Master_Thesis) - Spatio-Temporal Modelling for burglary prediction.
+- [Predicting Disease Outbreak](https://github.com/ab-bh/Disease-Outbreak-Prediction/blob/master/Disease%20Outbreak%20Prediction.ipynb) - Machine Learning implementation based on multiple classifier algorithm implementations.
+- [Road accident prediction](https://github.com/leportella/federal-road-accidents) - Prediction on type of victims on federal road accidents in Brazil.
+- [Text Mining](https://github.com/rajaswa/Disaster-Management-) - Disaster Management using Text mining.
+- [Twitter and disasters](https://github.com/paultopia/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb) - Try to correctly predict whether tweets that are about disasters.
+- [Flood Risk](https://github.com/arijitsaha/FloodRisk) -  Impact of catastrophic flood events.
+- [Fire Prediction](https://github.com/Senkichi/The_Catastrophe_Coefficient) - We used 4 different algorithms to predict the likelihood of future fires.
+
+
+
+## Finance
+
+**Trading and Investment** 
+For more see [financial-machine-learning](https://github.com/firmai/financial-machine-learning)
+
+
+- [Deep Portfolio](https://github.com/DLColumbia/DL_forFinance) - Deep learning for finance Predict volume of bonds.
+- [AI Trading](https://github.com/borisbanushev/stockpredictionai/blob/master/readme2.md) - Modern AI trading techniques.
+- [Corporate Bonds](https://github.com/ishank011/gs-quantify-bond-prediction) - Predicting the buying and selling volume of the corporate bonds.
+- [Simulation](https://github.com/chenbowen184/Computational_Finance) - Investigating simulations as part of computational finance.
+- [Industry Clustering](https://github.com/SeanMcOwen/FinanceAndPython.com-ClusteringIndustries) - Project to cluster industries according to financial attributes.
+- [Financial Modeling](https://github.com/MiyainNYC/Financial-Modeling/tree/master/codes) - HFT trading and implied volatility modeling.
+- [Trend Following](http://inseaddataanalytics.github.io/INSEADAnalytics/ExerciseSet2.html) - A futures trend following portfolio investment strategy.
+- [Financial Statement Sentiment](https://github.com/MAydogdu/TextualAnalysis) - Extracting sentiment from financial statements using neural networks.
+- [Applied Corporate Finance](https://github.com/chenbowen184/Data_Science_in_Applied_Corporate_Finance) - Studies the empirical behaviors in stock market.
+- [Market Crash Prediction](https://github.com/sarachmax/MarketCrashes_Prediction/blob/master/LPPL_Comparasion.ipynb) - Predicting market crashes using an LPPL model.
+- [NLP Finance Papers](https://github.com/chenbowen184/Research_Documents_Curation_with_NLP) - Curating quantitative finance papers using machine learning.
+- [ARIMA-LTSM Hybrid](https://github.com/imhgchoi/Corr_Prediction_ARIMA_LSTM_Hybrid) - Hybrid model to predict future price correlation coefficients of two assets
+- [Basic Investments](https://github.com/SeanMcOwen/FinanceAndPython.com-Investments) - Basic investment tools in python.
+- [Basic Derivatives](https://github.com/SeanMcOwen/FinanceAndPython.com-Derivatives) - Basic forward contracts and hedging.
+- [Basic Finance](https://github.com/SeanMcOwen/FinanceAndPython.com-BasicFinance) - Source code notebooks basic finance applications.
+- [Advanced Pricing ML](https://github.com/jjakimoto/finance_ml) - Additional implementation of Advances in Financial Machine Learning (Book)
+- [Options and Regression](https://github.com/aluo417/Financial-Engineering-Projects) - Financial engineering project for option pricing techniques. 
+- [Quant Notebooks](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quant finance, algorithmic trading and investment strategy. 
+- [Forecasting Challenge](https://github.com/bukosabino/financial-forecasting-challenge-gresearch) - Financial forecasting challenge by G-Research (Hedge Fund)
+- [XGboost](https://github.com/firmai?after=Y3Vyc29yOnYyOpK5MjAxOS0wNS0wMlQwNToyMzoyMSswMTowMM4KBjIV&tab=stars) - A trading algorithm using XgBoost
+- [Research Paper Trading](https://github.com/rawillis98/alpaca) - A strategy implementation based on a paper using Alpaca Markets. 
+- [Various](https://github.com/arcadynovosyolov/finance) - Options, Allocation, Simulation 
+- [ML & RL NYU](https://github.com/joelowj/Machine-Learning-and-Reinforcement-Learning-in-Finance) - Machine Learning and Reinforcement Learning in Finance. 
+
+
+**Data**
+
+- [Datastream](https://github.com/mbravidor/PyDSout) - Datastrem from Thomson Reuters accessible through Python. 
+- [AlphaVantage](http://twopirllc) - API wrapper to simplify the process of acquiring free financial data.
+- [FSA](https://github.com/duncangh/FSA)- A project to transfer SEC Edgar Filings’ financial data to custom financial statement analysis models. 
+- [TradeConnector](https://github.com/tradeasystems/tradeasystems_connector) - A layer to connect with market data providers. 
+- [Employee Count SEC Filings](https://github.com/healthgradient/sec_employee_information_extraction)
+- [SEC Parsing](https://github.com/healthgradient/sec-doc-info-extraction/blob/master/classify_sections_containing_relevant_information.ipynb)
+- [Open Edgar](https://github.com/LexPredict/openedgar)
+- [Rating Industries](http://www.ratingshistory.info/)
+
+
+## Healthcare
+
+**General**
+
+
+- [zEpid](https://github.com/pzivich/zEpid)  - Epidemiology analysis package.
+- [Python For Epidemiologists](https://github.com/pzivich/Python-for-Epidemiologists) - Tutorial to introduce epidemiology analysis in Python. 
+- [Prescription Compliance](https://github.com/rjhere/Prescription-compliance-prediction) - An analysis of prescription and medical compliance 
+- [Respiratory Disease](https://github.com/alistairwallace97/olympian-biotech) -  Tracking respiratory diseases in Olympic athletes
+- [Bubonic Plague](https://github.com/callysto/curriculum-notebooks/blob/master/Humanities/BubonicPlague/bubonic-plague-and-SIR-model.ipynb) - Bubonic plague and SIR model. 
+
 
 
 <a name="legal"></a>
@@ -276,24 +640,129 @@ Also, a listed repository should be deprecated if:
 * [Some Computational AI Course](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw) - Video series Law MIT.
 
 
+
+## Manufacturing
+
+**General**
+
+- [Green Manufacturing](https://github.com/Danila89/kaggle_mercedes) - Mercedes-Benz Greener *Manufacturing* competition on Kaggle. 
+- [Semiconductor Manufacturing](https://github.com/Meena-Mani/SECOM_class_imbalance) - Semicondutor *manufacturing* process line data analysis. 
+- [Smart Manufacturing](https://github.com/usnistgov/modelmeth) - Shared work of a modelling Methodology.
+- [Bosh Manufacturing](https://github.com/han-yan-ds/Kaggle-Bosch) - Bosh manufacturing project, Kaggle. 
+
+**Maintenance**
+
+- [Predictive Maintenance](https://github.com/Azure/lstms_for_predictive_maintenance) 1 - Predict remaining useful life of aircraft engines
+- [Predictive Maintenance 2](https://github.com/Samimust/predictive-maintenance) - Time-To-Failure (TTF) or Remaining Useful Life (RUL) 
+- [Manufacturing Maintenance](https://github.com/m-hoff/maintsim) - Simulation of maintenance in *manufacturing* systems. 
+
+**Failure**
+
+- [Predictive Analytics](https://github.com/IBM/iot-predictive-analytics) - Method for Predicting failures in Equipment using Sensor data.
+- [Detecting Defects](https://github.com/roshank1605A04/SECOM-Detecting-Defected-Items)  - Anomaly detection for defective semiconductors
+- [Defect Detection](https://github.com/jorgehas/smart-defect-inspection) - Smart defect detection for pill manufacturing. 
+- [Manufacturing Failures](https://github.com/aayushmudgal/Reducing-Manufacturing-Failures) - Reducing manufacturing failures. 
+- [Manufacturing Anomalies](https://github.com/mohan-mj/Manufacturing-Line-I4.0) - Intelligent anomaly detection for *manufacturing* line. 
+
+**Quality**
+
+- [Quality Control](https://github.com/buzz11/productionFailures) - Bosh failure of quality control. 
+- [Manufacturing Quality](https://github.com/limberc/tianchi-IMQF) - Intelligent *Manufacturing* Quality Forecast 
+- [Auto Manufacturing](https://github.com/trentwoodbury/ManufacturingAuctionRegression) -  Regression Case Study Project on *Manufacturing* Auction Sale Data.
+
+
+
+## Media & Publishing
+
+**Marketing**
+
+- [Video Popularity](https://github.com/andrei-rizoiu/hip-popularity) - HIP model for predicting the popularity of videos.
+- [YouTube transcriber](https://github.com/hathix/youtube-transcriber) - Automatically transcribe YouTube videos. 
+- [Marketing Analytics](https://github.com/byukan/Marketing-Data-Science) - Marketing analytics case studies. 
+- [Algorithmic Marketing](https://github.com/ikatsov/algorithmic-examples) - Models from Introduction to Algorithmic Marketing book
+- [Marketing Scripts](https://github.com/HowardNTUST/Marketing-Data-Science-Application) - Marketing data science applications. 
+- [Social Mining](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) - Mining the social web. 
+
+
+## Miscellaneous
+
+**Art**
+
+- [Painting Forensics](https://github.com/ivan-bilan/Painting_Forensics) - Analysing paintings to find out their year of creation. 
+- Remember painting valuation - get it in here too. 
+
+
+- **Tourism**
+- [Flickr](https://github.com/xiaofei6677/TourismFlickrMiner) - Metadata mining tool for tourism research. 
+- [Fashion](https://github.com/khanhnamle1994/fashion-recommendation) **-** A clothing retrieval and visual recommendation model for fashion images
+
+
+
+## Physics
+
+**General**
+
+- [Gamma-hadron Reconstruction](https://github.com/fvisconti/gammas_machine_learning) - Tools used in Gamma-ray ground based astronomy. 
+- [Curriculum](https://github.com/callysto/curriculum-notebooks/tree/master/Physics) - Newtonian notebooks. 
+- [Interaction Networks](https://github.com/higgsfield/interaction_network_pytorch) - Interaction Networks for Learning about Objects, Relations and *Physics.* 
+- [Particle Physics](https://github.com/hep-lbdl/adversarial-jets) - Training, generation, and analysis code for learning Particle *Physics*
+- [Computational Physics](https://github.com/ernestyalumni/CompPhys) - A computational physics repository. 
+- [Medical Physics](https://github.com/robmarkcole/Useful-python-for-medical-physics) - Useful python for medical physics. 
+- [Medical Physics 2](https://github.com/pymedphys/pymedphys) - A common, core Python package for Medical *Physics*
+- [Flow Physics](https://github.com/FPAL-Stanford-University/FloATPy) - Flow *Physics* and Aeroacoustics Toolbox with Python
+
+**Machine Learning**
+
+- [Physics ML and Stats](https://github.com/dkirkby/MachineLearningStatistics) - Machine learning and statistics for physicists
+- [High Energy](https://github.com/arogozhnikov/hep_ml) - Machine Learning for High Energy *Physics*.
+- [High Energy GAN](https://github.com/hep-lbdl/CaloGAN) - Generative Adversarial Networks for High Energy *Physics.* 
+- [Neural Networks](https://github.com/GiggleLiu/marburg) - P*hysics* meets neural networks
+
+
+
 <a name="public"></a>
 ## Government and Public Works
 
 <a name="public-social"></a>
 #### Social Policies
-* [Triage](https://github.com/dssg/triage ) - General Purpose Risk Modeling and Prediction Toolkit for Policy and Social Good Problems.
-* [World Bank Poverty I](https://github.com/worldbank/ML-classification-algorithms-poverty/tree/master/notebooks) - A comparative assessment of machine learning classification algorithms applied to poverty prediction.
-* [World Bank Poverty II](https://github.com/avsolatorio/world-bank-pover-t-tests-solution) - Repository for the World Bank Pover-t Test Competition Solution
-Overseas Company Land Ownership .
-* [Overseas Company Land Ownership](https://github.com/Global-Witness/overseas-companies-land-ownership/blob/master/overseas_companies_land_ownership_analysis.ipynb) - Identifying foreign ownership in the UK.
-* [CFPB](https://github.com/MAydogdu/ConsumerFinancialProtectionBureau/blob/master/CFPB_Complaints_2017September.ipynb) - Consumer Finances Protection Bureau complaints analysis.
-* [Cannabis Legalisation Effect](https://github.com/tslindner/Effects-of-Cannabis-Legalization) - Effects of cannabis legalization on crime. 
+- [Triage](https://github.com/dssg/triage) - General Purpose Risk Modeling and Prediction Toolkit for Policy and Social Good Problems.
+- [World Bank Poverty I](https://github.com/worldbank/ML-classification-algorithms-poverty/tree/master/notebooks) - A comparative assessment of machine learning classification algorithms applied to poverty prediction.
+- [World Bank Poverty II](https://github.com/avsolatorio/world-bank-pover-t-tests-solution) - Repository for the World Bank Pover-t Test Competition Solution Overseas Company Land Ownership .
+- [Overseas Company Land Ownership](https://github.com/Global-Witness/overseas-companies-land-ownership/blob/master/overseas_companies_land_ownership_analysis.ipynb) - Identifying foreign ownership in the UK.
+- [CFPB](https://github.com/MAydogdu/ConsumerFinancialProtectionBureau/blob/master/CFPB_Complaints_2017September.ipynb) - Consumer Finances Protection Bureau complaints analysis.
+- [Cannabis Legalisation Effect](https://github.com/tslindner/Effects-of-Cannabis-Legalization) - Effects of cannabis legalization on crime.
+- [Public Credit Card](https://github.com/dmodjeska/barnet_transactions/blob/master/Barnet_Transactions_Analysis.ipynb) - Identification of potential fraud for council credit cards. [Data](https://open.barnet.gov.uk/dataset/corporate-credit-card-transaction-2016-17)
+- [Recidivism Prediction](https://github.com/shayanray/GlassBox/tree/master/mlPredictor) - Transparency and audibility to recidivism risk assessment  
+- [Household Poverty](https://github.com/Featuretools/predict-household-poverty) - Predict poverty in households in Costa Rica. 
+- [NLP Public Policy](https://github.com/ancilcrayton/nlp_public_policy) - An example of an NLP use-case in public policy. 
+- [World Food Production](https://github.com/roshank1605A04/World-Food-Production) - Comparing Top food and feed Producers around the globe.
+- [Tax Inequality](https://github.com/DataScienceForGood/TaxationInequality) - Data project around taxation and inequality in Basel Stadt.
+- [Sheriff Compliance](https://github.com/austinbrian/sheriffs)  - Compliance to ICE requests.
+- [Apps Detection](https://github.com/MengchuanFu/Suspecious-Apps-Detection) - Suspicious app detection for kids. 
+- [Social Assistance](https://github.com/farkhondehm/Social-Assistance) - Trending information on social assistance
+- [Computational Social Science](https://github.com/abjer/sds/tree/master/material) - Social data science summer school course. 
+- [Liquor and Crime](https://github.com/bhaveshgoyal/safeLiquor) - Effect of liquor licenses issued on the crime rate.
+- [Animal Placement Kennels](https://github.com/austinpetsalive/distemper-outbreak) - Optimising animal placement in shelters.
+- [Staffing Wall](https://github.com/ryanschaub/The-U.S.-Mexican-Border-Wall-and-Staffing-A-Statistical-Approach-) - Independent exploration project on U.S. Mexican Border wall
+- [Worker Fatalities](https://github.com/zischwartz/workerfatalities) - Worker Fatalities and Catastrophes Map from OSHA data
+
+**Charities**
+
+- [Census Data API](https://github.com/johnfwhitesell/CensusPull/blob/master/Census_ACS5_Pull.ipynb) - Pull variables from the 5-year American Community Survey.
+- [Philantropic Giving](https://github.com/datakind/datadive-gates92y-proj3-form990) - Work done by numerous DataKind volunteers on harnessing Form 990 data
+- [Charity Recommender](https://github.com/Chris-Manna/charity_recommender) - NYC *Charity* Collaborative Recommender System on an Implicit DataSet.
+- Donor Identification - A machine learning project in which we need to find donors for *charity.*
+- [US Charities](https://github.com/staceb/charities_in_the_united_states) -  Charity exploration and machine learning. 
+- [Charity Effectiveness](https://github.com/LauraChen/02-Metis-Web-Scraping)
+- -  Scraping online data about *charities* to understand effectiveness
 
 <a name="public-election"></a>
 #### Election Analysis
-* [Election Analysis](https://github.com/1jinwoo/DeepWave/blob/master/DR_Random_Forest.ipynb) - Election Analysis and Prediction Models
-* [American Election Causal](https://github.com/Akesari12/LS123_Data_Prediction_Law_Spring-2019/blob/master/labs/OLS%20for%20Causal%20Inference/OLS_Causal_Inference_solution.ipynb) - Using ANES data with causal inference models.
-* [Campaign Finance and Election Results](https://github.com/sfbrigade/datasci-campaign-finance/blob/master/notebooks/ML%20Campaign%20Finance%20and%20Election%20Results%20Example.ipynb) - Investigating the relation between campaign finance and subsequent election results. 
+- [Election Analysis](https://github.com/1jinwoo/DeepWave/blob/master/DR_Random_Forest.ipynb) - Election Analysis and Prediction Models
+- [American Election Causal](https://github.com/Akesari12/LS123_Data_Prediction_Law_Spring-2019/blob/master/labs/OLS%20for%20Causal%20Inference/OLS_Causal_Inference_solution.ipynb) - Using ANES data with causal inference models.
+- [Campaign Finance and Election Results](https://github.com/sfbrigade/datasci-campaign-finance/blob/master/notebooks/ML%20Campaign%20Finance%20and%20Election%20Results%20Example.ipynb) - Investigating the relation between campaign finance and subsequent election results.
+- [Voting System](https://github.com/nealmcb/pr_voting_methods) - Proportional representation voting methods. 
+- [President Vote](https://github.com/austinbrian/portfolio/blob/master/tax_votes/president_counties.ipynb) - Vote by income level analysis.. 
 
 
 <a name="public-dis"></a>
@@ -305,17 +774,134 @@ Overseas Company Land Ownership .
 * [Text Mining](https://github.com/rajaswa/Disaster-Management-) - Disaster Management using Text mining.
 * [Twitter and disasters](https://github.com/paultopia/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb) - Try to correctly predict whether tweets that are about disasters..
 
-<a name="public-urban"></a>
-#### Urban Planning
-* [Traffic Prediction](https://github.com/mratsim/McKinsey-SmartCities-Traffic-Prediction) - Multi attention recurrent neural networks for time-series (city traffic) 
-* [Predict Crashes](https://github.com/Data4Democracy/crash-model) - Crash prediction modeling application that leverages multiple data sources.
-* [Predict Household Poverty](https://github.com/Featuretools/predict-household-poverty) - Predict the poverty of households in Costa Rica using automated feature engineering.
 
 
-<a name="public-util"></a>
-#### Utilities
-* [Air Quality Prediction](https://github.com/txytju/air-quality-prediction) - Predict air quality(aq) in Beijing and London in the next 48 hours.
-* [Water Accounting](https://github.com/johnpfay/USWaterAccounting) - Assembles water budget data for the US from existing data source.
-* [Electricity French Distribution](http://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/group_energy.html) - An analysis of electricity data provided by the French Distribution Network (RTE).
+**Politics**
+
+- [Congressional politics](https://github.com/kaumaron/Data_Science/tree/master/Congressional_Partisanship) - House and senate congressional partisanship. 
+- [Politico](https://github.com/okfn-brasil/perfil-politico) - A platform for profiling public figures in Brazilian *politics.*
+- [Bots](https://github.com/ParticipaPY/politic-bots) - Tools and algorithms to analyze Paraguayan Tweets in times of election
+- [Gerrymander tests](https://github.com/PrincetonUniversity/gerrymandertests) - Lots of metrics for quantifying gerrymandering.
+- [Sentiment](https://github.com/JulianMar11/SentimentPoliticalCompass) - Analyse newspapers with respect to their *political* conviction using entity sentiments of party representatives. 
+- [DL Politics](https://github.com/muntisa/Deep-Politics) - Prediction of Spanish *Political* Affinity with Deep Neural Nets: Socialist vs People's Party
+- [PAC Money](https://github.com/edmundooo/more-money-more-problems) - Effects of PAC money on US *politics*.
+- [Power Networks](https://github.com/abhiagar90/power_networks) - Constructing a watchdog for Indian corporate and *political* networks
+- [Elite](https://github.com/philippschmalen/Project_tsds) - Political elite in the US.
+- [Debate Analysis](https://github.com/kkirchhoff01/DebateAnalysis) - Program to analyze *political* debates.
+- [Political Affiliation](https://github.com/davidjwiner/political_affiliation_prediction) - Political affiliation prediction using twitter metadata. 
+- [Political Ads](https://github.com/philiplbean/facebook_political_ads) - Investigation into Facebook *Political* Ads and Targeting
+- [Political Identity](https://github.com/pgromano/Political-Identity-Analysis) - Multi-axial *political* model.
+- [YT Politics](https://github.com/kmunger/YT_descriptive) -  Mapping *Politics* on YouTube
+- [Political Ideology](https://github.com/albertwebson/Political-Vector-Projector) - Unsupervised learning of *political* ideology by word vector projections
+
+
+## Real Estate, Rental & Leasing
+
+**Real Estate**
+
+- [Finding Donuts](https://github.com/GretelDePaepe/FindingDonuts) - Finding real estate opportunities by predicting transforming neighbourhoods. 
+- [Neighbourhood](https://github.com/denadai2/real-estate-neighborhood-prediction) - Predicting real estate prices from the urban environment.
+- [Real Estate Classification](https://github.com/Sardhendu/PropertyClassification) - Classifying the type of property given Real Estate, satellite and Street view Images
+- [Recommender](https://github.com/hyattsaleh15/RealStateRecommender) - This tools aims to recommend a user the top 5 real estate properties that matches their search.
+- [House Price](https://github.com/Shreyas3108/house-price-prediction) - Predicting *house* prices using Linear Regression and GBR
+- [House Price Portland](https://github.com/girishkuniyal/Predict-housing-prices-in-Portland) - Predict housing prices in Portland. 
+- [Zillow Prediction](https://github.com/eswar3/Zillow-prediction-models) - Zillow valuation prediction as performed on Kaggle.
+- [Real Estate](https://github.com/denadai2/real-estate-neighborhood-prediction) - Predicting real estate prices from the urban environment.
+
+**Rental & Leasing**
+
+- [Analysing Rentals](https://github.com/ual/rental-listings) - Analyzing and visualizing rental listings data. 
+- [Interest Prediction](https://github.com/mratsim/Apartment-Interest-Prediction) - Predict people interest in renting specific NYC apartments.
+- [Housing Uni vs Non-Uni](https://github.com/5x12/pwc_europe_data_analytics_hackathon) - The effect on university lodging after the GFC.
+- [Predict Household Poverty](https://github.com/Featuretools/predict-household-poverty) -  Predict the poverty of households in Costa Rica using automated feature engineering.
+- [Airbnb public analytics competition](http://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/AirbnbReport2016Jan.html): - Now strategic management. 
+- 
+
+
+
+----------
+
+Warehousing probably means inventory demand too.
+
+
+## Utilities
+
+**Electricity**
+
+- [Electricity Price](https://github.com/luqmanhakim/research-on-sp-wholesale/blob/master/research-on-sp-wholesale-plan.ipynb) - Electricity price comparison Singapore. 
+- [Electricity-Coal Correlation](https://github.com/richardddli/state_electricity_rates) - Determining the correlation between state electricity rates and coal generation over the past decade.
+- [Electricity Capacity](https://github.com/datadesk/california-electricity-capacity-analysis) - A Los Angeles Times analysis of California's costly power glut.
+- [Electricity Systems](https://github.com/PyPSA/WHOBS) - Optimal Wind+Hydrogen+Other+Battery+Solar (WHOBS) *electricity* systems for European countries.
+- [Load Disaggregation](https://github.com/pipette/Electricity-load-disaggregation) - Smart meter load disaggregation with Hidden Markov Models
+- [Price Forecasting](https://github.com/farwacheema/DA-electricity-price-forecasting) - Forecasting Day-Ahead *electricity* prices in the German bidding zone with deep neural networks.
+- [Carbon Index](https://github.com/gschivley/carbon-index) - Calculation of *electricity* CO₂ intensity at national, state, and NERC regions from 2001-present.
+- [Demand Forecasting](https://github.com/hvantil/ElectricityDemandForecasting) - *Electricity* demand forecasting for Austin.
+- [Electricity Consumption](https://github.com/un-modelling/Electricity_Consumption_Surveys)  - Estimating *Electricity* Consumption from Household Surveys
+- [Household power consumption](https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-) - Individual household power consumption LSTM.
+- [Electricity French Distribution](http://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/group_energy.html) - An analysis of electricity data provided by the French Distribution Network (RTE)
+- Renewable Power Plants - https://github.com/Open-Power-System-Data/renewable_power_plants
+- Wind Farm Flow - https://github.com/FUSED-Wind/FUSED-Wake
+- Power Plant - https://github.com/YungChunLu/UCI-Power-Plant
+
+
+**Coal, Oil & Gas**
+
+- [Coal Phase Out](https://github.com/samarthiith/DE_CoalPhaseOut) - Generation adequacy issues with Germany’s coal phaseout. 
+- [Coal Prediction](https://github.com/Jean-njoroge/coal-exploratory/tree/master/notebooks) - Predicting coal production. 
+- [Oil & Gas](https://github.com/sdasadia/Oil-Natural-Gas-Price-Prediction) - Oil & *Natural* *Gas* price prediction using ARIMA & Neural Networks
+- [Gas Formula](https://github.com/cep-kse/natural_gas_formula) -  Calculating potential economic effect of price indexation formula.
+- [Demand Prediction](https://github.com/victorpena1/Natural-Gas-Demand-Prediction) - Natural gas demand prediction.
+- [Consumption Forecasting](https://github.com/williamadams1/natural-gas-consumption-forecasting) - Natural gas consumption forecasting. 
+- [Gas Trade](https://github.com/bahuisman/NatGasModel) - World Model for *Natural* *Gas* Trade.
+
+**Water & Pollution**
+
+- [Safe Water](https://github.com/codeforboston/safe-water) - Predict health-based drinking water violations in the United States.
+- [Hydrology Data](https://github.com/mroberge/hydrofunctions) - A suite of convenience functions for exploring water data in Python.
+- [Water Observatory](https://github.com/sentinel-hub/water-observatory-backend) - Monitoring water levels of lakes and reservoirs using satellite imagery.
+- [Water Pipelines](https://github.com/wassname/pipe-segmentation) - Using machine learning to find water pipelines in aerial images. 
+- [Water Modelling](https://github.com/awracms/awra_cms_older) - Australian Water Resource Assessment (AWRA) Community Modelling System.
+- [Drought Restrictions](https://github.com/datadesk/california-ccscore-analysis) - A Los Angeles Times analysis of water usage after the state eased drought restrictions
+- [Flood Prediction](https://github.com/cadrev/lstm-flood-prediction) - Applying LSTM on river water level data
+- [Sewage Overflow](https://github.com/jesseanddd/sewer-overflow) -  Insights into the sanitary sewage overflow (SSO).
+- [Water Accounting](https://github.com/johnpfay/USWaterAccounting) - Assembles water budget data for the US from existing data source
+- [Air Quality Prediction](https://github.com/txytju/air-quality-prediction) - Predict air quality(aq) in Beijing and London in the next 48 hours.
+
+**Transportation**
+
+- [Transdim](https://github.com/xinychen/transdim) - Creating accurate and efficient solutions for the spatio-temporal traffic data imputation and prediction tasks.
+- [Transport Recommendation](https://github.com/AlanConstantine/KDD-Cup-2019-CAMMTR) - Context-Aware Multi-Modal Transportation Recommendation 
+- [Transport Data](https://github.com/CityofToronto/bdit_data-sources) - Data and notebooks for Toronto transport. 
+- [Transport Demand](https://github.com/pawelmorawiecki/traffic_jam_Nairobi) - Predicting demand for public transportation in Nairobi.
+- [Demand Estimation](https://github.com/Lemma1/DPFE) - Implementation of dynamic origin-destination demand estimation.
+- [Congestion Analysis](https://github.com/hackoregon/transportation-congestion-analysis) -  Transportation systems analysis
+- [TS Analysis](https://github.com/nishanthgampa/Time-Series-Analysis-on-Transportation-Data) - Time series analysis on transportation data.
+- [Network Graph Subway](https://github.com/fangshulin/Vulnerability-Analysis-for-Transportation-Networks) - Vulnerability analysis for transportation networks. 
+- [Transportation Inefficiencies](https://github.com/akpen/Stockholm-0.1) - Quantifying the inefficiencies of Transportation Networks
+- [Train Optimisation](https://github.com/crowdAI/train-schedule-optimisation-challenge-starter-kit) - Train schedule optimisation 
+- [Traffic Prediction](https://github.com/mratsim/McKinsey-SmartCities-Traffic-Prediction) - multi attention recurrent neural networks for time-series (city traffic) 
+- [Predict Crashes](https://github.com/Data4Democracy/crash-model) - Crash prediction modelling application that leverages multiple data sources
+- [AI Supply chain](https://github.com/llSourcell/AI_Supply_Chain) - Supply chain optimisation system. 
+- [Transfer Learning Flight Delay](https://github.com/cavaunpeu/flight-delays) - Using variation encoders in Keras to predict flight delay. 
+- [Replenishment](https://github.com/pratishthakapoor/RetailReplenishement/tree/master/Code) - Retail replenishment code for supply chain management.
+
+
+
+## Wholesale & Retail
+
+**Wholesale**
+
+- [Customer Analysis](https://github.com/kralmachine/WholesaleCustomerAnalysis) - Wholesale customer analysis.
+- [Distribution](https://github.com/Semionn/JB-wholesale-distribution-analysis) - JB wholesale distribution analysis. 
+- [Clustering](https://github.com/prakhardogra921/Clustering-Analysis-on-customers-of-a-wholesale-distributor) -  Unsupervised learning techniques are applied on product spending data collected for customers 
+- [Market Basket Analysis](https://github.com/tstreamDOTh/Instacart-Market-Basket-Analysis) - Instacart public dataset to report which products are often shopped together.
+
+**Retail**
+
+- [Retail Analysis](https://github.com/SarahMestiri/online-retail-case) - Studying Online *Retail* Dataset and getting insights from it.
+- [Online Insights](https://github.com/roshank1605A04/Online-Retail-Transactions-of-UK) - Analyzing the Online Transactions in UK
+- [Retail Use-case](https://github.com/IBM-DSE/CyberShop-Analytics) - Notebooks & Data for CyberShop *Retail* Use Case
+- [Dwell Time](https://github.com/arvindkarir/retail) - Customer dwell time and other analysis. 
+- [Retail Cohort](https://github.com/finnqiao/cohort_online_retail) - Cohort analysis. 
 
 
