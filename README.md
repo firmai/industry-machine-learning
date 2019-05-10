@@ -25,14 +25,12 @@ Also, a listed repository should be deprecated if:
 
 | <!-- -->                         | <!-- -->                         | <!-- -->                          |
 | -------------------------------- | -------------------------------- | --------------------------------- |
-| [Accommodation & Food](#accommodation)             | Agriculture & Forestry           | Banking & Insurance               |
-| Biotechnological & Life Sciences | Construction & Engineering       | Education & Research              |
-| Emergency & Police               | Entertainment, Recreation & Arts | Goods & Manufacturing             |
-| Government and Public Works      | Healthcare and Social Assitance  | Media & Publishing                |
-| Mining, Oil & Gas Extraction     | Miscellaneous                    | Professional & Technical Services |
-| Real Estate, Rental & Leasing    | Technology                       | Telecommunications                |
-| Transportation & Warehousing     | Utilities                        | Wholesale & Retail                |
-| Justice, Law and Regulations     | Accounting & Auditing            |                                   |
+| [Accommodation & Food](#accommodation)             | [Agriculture](#agriculture)           | [Banking & Insurance](#bankfin)               |
+| [Biotechnological & Life Sciences](#biotech) | [Construction & Engineering](#construction)       | [Education & Research](#education)              |
+| [Emergency & Relief](#emergency)               | [Finance](#finance) | [Manufacturing](#manufacturing)             |
+| [Government and Public Works](#public)      | [Healthcare](#healthcare)  | [Media & Publishing](#media)                |
+| [Justice, Law and Regulations](#legal)      | [Miscellaneous](#miscellaneous)                    | [Accounting](#accounting) |
+| [Real Estate, Rental & Leasing](#realestate)    | [Utilities](#utilities)              | [Wholesale & Retail](#wholesale)                  |
 
 
 
