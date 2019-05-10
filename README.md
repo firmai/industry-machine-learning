@@ -19,7 +19,7 @@ Also, a listed repository should be deprecated if:
 
 </br>
 
-**Help Needed:** If there is any contributors out there willing to help first populate and then maintain a Python analytics section **in any one of the following sub/industries,** please get in contact with me.
+**Help Needed:** If there is any contributors out there willing to help first populate and then maintain a Python analytics section **in any one of the following sub/industries,** please get in contact with me. Also contact me to add **additional industries**. 
 
 </br>
 
