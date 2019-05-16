@@ -449,7 +449,8 @@ Also, a listed repository should be deprecated if:
 - [Atomate](https://github.com/hackingmaterials/atomate) - Pre-built workflows for computational material science.
 - [Bylaws Compliance](https://github.com/Mehranov/UnderstandingAndPredictingPropertyMaintenanceFines/blob/master/Assignment4_complete.ipynb) - Predicting property fines. 
 - [Asphalt Binder](https://github.com/sierraporta/asphalt_binder) - Construction materials, free energy and chemical composition of asphalt binder.
-- [Steel](https://github.com/hbutsuak95/Quality-Optimization-of-Steel) - Optimisation of steel. 
+- [Steel](https://github.com/hbutsuak95/Quality-Optimization-of-Steel) - Optimisation of steel.
+- [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics)
 
 
 <a name="economics"></a>
