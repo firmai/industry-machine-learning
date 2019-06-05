@@ -675,7 +675,7 @@ Also, a listed repository should be deprecated if:
 - [Green Manufacturing](https://github.com/Danila89/kaggle_mercedes) - Mercedes-Benz Greener *Manufacturing* competition on Kaggle. 
 - [Semiconductor Manufacturing](https://github.com/Meena-Mani/SECOM_class_imbalance) - Semicondutor *manufacturing* process line data analysis. 
 - [Smart Manufacturing](https://github.com/usnistgov/modelmeth) - Shared work of a modelling Methodology.
-- [Bosh Manufacturing](https://github.com/han-yan-ds/Kaggle-Bosch) - Bosh manufacturing project, Kaggle. 
+- [Bosch Manufacturing](https://github.com/han-yan-ds/Kaggle-Bosch) - Bosch manufacturing project, Kaggle. 
 
 <a name="manufacturing-maintenance"></a>
 **Maintenance**
