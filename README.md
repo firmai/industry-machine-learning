@@ -10,7 +10,7 @@ Please add your tools and notebooks to this [Google Sheet](https://docs.google.c
 
 A curated list of applied machine learning and data science notebooks and libraries accross different industries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
 
-***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in any of the industries as listed below. If you are a **[**analytical, computational, statistical, quantitive**]** researcher/analyst in field **X** or a field **X** **[**machine learning engineer, data scientist, modeler, programmer**]** then your contribution will be greatly appreciated.   
+***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in any of the industries listed below. If you are a **[**analytical, computational, statistical, quantitive**]** researcher/analyst in field **X** or a field **X** **[**machine learning engineer, data scientist, modeler, programmer**]** then your contribution will be greatly appreciated.   
 
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/).
@@ -163,7 +163,7 @@ Also, a listed repository should be deprecated if:
 - [Food Price](https://gist.github.com/analyticsindiamagazine/f9b2ba171a0eef9ad396ce6f1b83bbbc) - Predict food cost. 
 - [Automated Restaurant Report](https://github.com/firmai/interactive-corporate-report) - Automated machine learning company report.
 
-<a name="accommodation-acc
+<a name="accommodation-acc"></a>
 - [Peer-to-Peer Housing](https://github.com/rochiecuevas/shared_accommodations) - The effect of peer to peer  rentals on housing. 
 - [Roommate Recommendation](https://github.com/SiddheshAcharekar/Liveright) - A system for students seeking roommates. 
 - [Room Allocation](https://github.com/nus-usp/room-allocation) - Room allocation process. 
@@ -865,9 +865,11 @@ Also, a listed repository should be deprecated if:
 - [Electricity Consumption](https://github.com/un-modelling/Electricity_Consumption_Surveys)  - Estimating *Electricity* Consumption from Household Surveys
 - [Household power consumption](https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-) - Individual household power consumption LSTM.
 - [Electricity French Distribution](http://inseaddataanalytics.github.io/INSEADAnalytics/groupprojects/group_energy.html) - An analysis of electricity data provided by the French Distribution Network (RTE)
-- Renewable Power Plants - https://github.com/Open-Power-System-Data/renewable_power_plants
-- Wind Farm Flow - https://github.com/FUSED-Wind/FUSED-Wake
-- Power Plant - https://github.com/YungChunLu/UCI-Power-Plant
+- [Renewable Power Plants](https://github.com/Open-Power-System-Data/renewable_power_plants)  - Time series of cumulated installed capacity.
+- [ Wind Farm Flow](https://github.com/FUSED-Wind/FUSED-Wake) - A repository of wind plant flow models connected to FUSED-Wind.
+- [Power Plant](https://github.com/YungChunLu/UCI-Power-Plant) - The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011).
+
+
 
 <a name="utilities-coal"></a>
 **Coal, Oil & Gas**
