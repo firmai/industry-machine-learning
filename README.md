@@ -1,10 +1,11 @@
 # Machine Learning and Data Science Applications in Industry
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20list%20of%20Python%20Notebooks%20for%20business%20applications&url=https://github.com/firmai/industry-machine-learning&via=dereknow&hashtags=ML,AI,Python,business)
 
-Please add your tools and notebooks to this [Google Sheet]
-Highlight in **yellow** to get your pacakge added, you can also just add it yourself with a **pull request**. 
+Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). 
 
-(https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). 
+Highlight in **YELLOW** to get your pacakge added, you can also just add it yourself with a **pull request**. 
+
+
 
 <p align="center">
   <img src="https://github.com/firmai/industry-machine-learning/raw/master/assets/industry.png">
