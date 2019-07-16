@@ -615,6 +615,14 @@ Also, a listed repository should be deprecated if:
 - [Open Edgar](https://github.com/LexPredict/openedgar)
 - [Rating Industries](http://www.ratingshistory.info/)
 
+**Personal Papers**
+
+- [Financial Machine Learning Regulation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3371902)
+- [Predicting Restaurant Facility Closures](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420490)
+- [Predicting Corporate Bankruptcies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420889)
+- [Predicting Earnings Surprises](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420722) 
+- [Machine Learning in Asset Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952) 
+
 
 <a name="healtcare"></a>
 ## Healthcare
