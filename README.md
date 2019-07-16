@@ -676,6 +676,7 @@ Also, a listed repository should be deprecated if:
 - [ML Law Matching](https://github.com/whs2k/GPO-AI) - A machine learning law match maker.
 - [Bert Multi-label Classification](https://github.com/brightmart/sentiment_analysis_fine_grain) - Fine Grained Sentiment Analysis from AI.
 - [Some Computational AI Course](https://www.youtube.com/channel/UC5UHm2J9pbEZmWl97z_0hZw) - Video series Law MIT.
+- [Financial Machine Learning Regulation (Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3371902)
 
 
 <a name="manufacturing"></a>
