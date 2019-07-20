@@ -1,8 +1,6 @@
 # Machine Learning and Data Science Applications in Industry
 
-Also instead of "whatching" you can join this [this](https://mailchi.mp/ec4942d52cc5/firmai) link-sharing email list: https://mailchi.mp/ec4942d52cc5/firmai.
-
-it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. 
+Also instead of "whatching" you can join this [this](https://mailchi.mp/ec4942d52cc5/firmai) monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. It's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. 
 
 Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). 
 
