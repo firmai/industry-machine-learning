@@ -1,6 +1,6 @@
 # Machine Learning and Data Science Applications in Industry
 
-Also instead of "whatchlisting" you can join this link-sharing email list: it's already being sent out to about 90 people and you are free to join too. 
+Also instead of "whatchlisting" you can join this [this](https://mailchi.mp/ec4942d52cc5/firmai) link-sharing email list: it's already being sent out to about 90 people and you are free to join too. 
 
 https://mailchi.mp/ec4942d52cc5/firmai
 
