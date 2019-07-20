@@ -5,7 +5,8 @@
 ### Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
 
 
-
+</br>
+</br>
 
 Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). 
 
