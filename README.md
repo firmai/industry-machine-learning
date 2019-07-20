@@ -3,7 +3,7 @@
 ### Admin
 ##### Also instead of "watching"  you can **join** the link-letter, it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
 
-#### To encourage active participation, I have created a [private repo](https://github.com/firmai/industry-ml-private) where all new edits would be included starting November 2019. To join indefinitely you have to submit two unique open source projects (unique to this list only, it needen't be your ownn).If you happen to be part of the newsletter and really want to join without contributing just send me an email d.snow@firmai.org. This project is not being digarded, once every year I will update the public list with new projects.
+#### To encourage active participation, I have created a [private repo](https://github.com/firmai/industry-ml-private) where all new edits would be included starting November 2019. To join indefinitely you have to submit two unique open source projects (unique to this list only, it needen't be your ownn).If you happen to be part of the newsletter and really want to join without contributing just send me an email d.snow@firmai.org. This project is not being digarded, once every year I will update the public list with new projects from the private list. How to know if your contribution is unique: search the [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing) file.
 ---
 </br>
 
