@@ -219,6 +219,7 @@ Also, a listed repository should be deprecated if:
 #### Data, Parsing and APIs
 
 * [EDGAR](https://github.com/TiesdeKok/UW_Python_Camp/blob/master/Materials/Session_5/EDGAR_walkthrough.ipynb) - A walk-through in how to obtain EDGAR data. 
+* [PyEDGAR](https://github.com/gaulinmp/pyedgar) - A library for downloading, caching, and accessing EDGAR filings.
 * [IRS](http://social-metrics.org/sox/) - Acessing and parsing IRS filings.
 * [Financial Corporate](http://raw.rutgers.edu/Corporate%20Financial%20Data.html) - Rutgers corporate financial datasets.
 * [Non-financial Corporate](http://raw.rutgers.edu/Non-Financial%20Corporate%20Data.html) - Rutgers non-financial corporate dataset.
