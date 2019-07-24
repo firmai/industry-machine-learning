@@ -1,4 +1,4 @@
-# ML and DS Applications in Industry
+# Machine Learning and Data Science Applications in Industry
 
 ### Admin
 ##### Also instead of "watching"  you can **join** the link-letter, it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
@@ -174,6 +174,8 @@ Also, a listed repository should be deprecated if:
 - [Automated Restaurant Report](https://github.com/firmai/interactive-corporate-report) - Automated machine learning company report.
 
 <a name="accommodation-acc"></a>
+**Accommodation** 
+
 - [Peer-to-Peer Housing](https://github.com/rochiecuevas/shared_accommodations) - The effect of peer to peer  rentals on housing. 
 - [Roommate Recommendation](https://github.com/SiddheshAcharekar/Liveright) - A system for students seeking roommates. 
 - [Room Allocation](https://github.com/nus-usp/room-allocation) - Room allocation process. 
@@ -195,7 +197,7 @@ Also, a listed repository should be deprecated if:
 <a name="accounting-ml"></a>
 #### Machine Learning
 * [Chart of Account Prediction](https://github.com/agdgovsg/ml-coa-charging ) - Using labeled data to suggest the account name for every transaction.
-* [Accounting Anomalies](https://github.com/GitiHubi/deepAI/blob/master/GTC_2018_Lab-solutions.ipynb) -  Using deep-learning frameworks to identify accounting anomalies.
+* [Accounting Anomalies](https://github.com/GitiHubi/deepAI/blob/master/GTC_2018_CoLab.ipynb) -  Using deep-learning frameworks to identify accounting anomalies.
 * [Financial Statement Anomalies](https://github.com/rameshcalamur/fin-stmt-anom) - Detecting anomalies before filing, using R.
 * [Useful Life Prediction (FirmAI)](http://www.firmai.org/documents/Aged%20Debtors/) - Predict the useful life of assets using sensor observations and feature engineering.
 * [AI Applied to XBRL](https://github.com/Niels-Peter/XBRL-AI) - Standardized representation of XBRL into AI and Machine learning.
@@ -316,7 +318,6 @@ Also, a listed repository should be deprecated if:
 
 - [Car Damage Detective](https://github.com/neokt/car-damage-detective) - Assessing car damage with convolution neural networks for a personal auto *claims.*
 - [Medical Insurance Claims](https://github.com/roshank1605A04/Insurance-Claim-Prediction/blob/master/InsuranceClaim.ipynb) - Predicting medical insurance claims. 
-- Anomaly 
 - [Claim Denial](https://github.com/slegroux/claimdenial/blob/master/Claim%20Denial.ipynb) - Predicting insurance claim denial
 - [Claim Fraud](https://github.com/rshea3/alpha-insurance) -  Predictive models to determine which automobile claims are fraudulent. 
 - [Claims Anomalies](https://github.com/dchannah/fraudhacker) - Anomaly detection system for medical insurance claims data.
@@ -337,7 +338,7 @@ Also, a listed repository should be deprecated if:
 #### Physical
 
 * [Bank Note Fraud Detection](https://github.com/apoorv-goel/Bank-Note-Authentication-Using-DNN-Tensorflow-Classifier-and-RandomForest) - Bank Note Authentication Using DNN Tensorflow Classifier and RandomForest.
-* [ATM Surveillance](https://github.com/ShreyaGupta08/InfyHack) - ATM Surveillance in banks use case.
+* [ATM Surveillance](https://github.com/ShreyaGupta08/InfosysHack) - ATM Surveillance in banks use case.
 
 
 <a name="biotech"></a>
@@ -392,7 +393,7 @@ Also, a listed repository should be deprecated if:
 - [Leaf Identification](https://github.com/AayushG159/Plant-Leaf-Identification) - Identification of *plants* through *plant* leaves on the basis of their shape, color and texture.
 - [Crop Analysis](https://github.com/openalea/eartrack) - An imaging library to detect and track future position of ears on maize *plants*
 - [Seedlings](https://github.com/mfsatya/PlantSeedlings-Classification) - *Plant* Seedlings Classification from kaggle competition
-- [Plant Stress](http://An ontology containing plant stresses; biotic and abiotic.) -  An ontology containing *plant* stresses; biotic and abiotic.
+- [Plant Stress](https://github.com/Planteome/ontology-of-plant-stress) - An ontology containing plant stresses; biotic and abiotic.
 - [Animal Hierarchy](https://github.com/sacul-git/hierarpy) - Package for calculating *animal* dominance hierarchies.
 - [Animal Identification](https://github.com/A7med01/Deep-learning-for-Animal-Identification) - Deep learning for animal identification. 
 - [Species](https://github.com/NomaanAhmed/BigData_AnimalSpeciesAnalysis) - Big Data analysis of different species of *animals*
@@ -585,6 +586,7 @@ Also, a listed repository should be deprecated if:
 <a name="finance-trading"></a>
 **Trading and Investment** 
 - For **more** see [financial-machine-learning](https://github.com/firmai/financial-machine-learning)
+- For **asset management** see [financial-machine-learning](https://github.com/firmai/machine-learning-asset-management)
 - [Deep Portfolio](https://github.com/DLColumbia/DL_forFinance) - Deep learning for finance Predict volume of bonds.
 - [AI Trading](https://github.com/borisbanushev/stockpredictionai/blob/master/readme2.md) - Modern AI trading techniques.
 - [Corporate Bonds](https://github.com/ishank011/gs-quantify-bond-prediction) - Predicting the buying and selling volume of the corporate bonds.
@@ -617,10 +619,10 @@ Also, a listed repository should be deprecated if:
 - [AlphaVantage](http://twopirllc) - API wrapper to simplify the process of acquiring free financial data.
 - [FSA](https://github.com/duncangh/FSA)- A project to transfer SEC Edgar Filings’ financial data to custom financial statement analysis models. 
 - [TradeConnector](https://github.com/tradeasystems/tradeasystems_connector) - A layer to connect with market data providers. 
-- [Employee Count SEC Filings](https://github.com/healthgradient/sec_employee_information_extraction)
-- [SEC Parsing](https://github.com/healthgradient/sec-doc-info-extraction/blob/master/classify_sections_containing_relevant_information.ipynb)
-- [Open Edgar](https://github.com/LexPredict/openedgar)
-- [Rating Industries](http://www.ratingshistory.info/)
+- [Employee Count SEC Filings](https://github.com/healthgradient/sec_employee_information_extraction) - Extraction to get the exact employee count values for companies from SEC filings.
+- [SEC Parsing](https://github.com/healthgradient/sec-doc-info-extraction/blob/master/classify_sections_containing_relevant_information.ipynb) -  NLP to find and extract specific information from long, unstructured documents
+- [Open Edgar](https://github.com/LexPredict/openedgar) - OpenEDGAR (openedgar.io)
+- [Rating Industries](http://www.ratingshistory.info/) - Histories from multiple agencies converted to CSV format
 
 **Personal Papers**
 
@@ -810,10 +812,9 @@ Also, a listed repository should be deprecated if:
 - [Census Data API](https://github.com/johnfwhitesell/CensusPull/blob/master/Census_ACS5_Pull.ipynb) - Pull variables from the 5-year American Community Survey.
 - [Philantropic Giving](https://github.com/datakind/datadive-gates92y-proj3-form990) - Work done by numerous DataKind volunteers on harnessing Form 990 data
 - [Charity Recommender](https://github.com/Chris-Manna/charity_recommender) - NYC *Charity* Collaborative Recommender System on an Implicit DataSet.
-- Donor Identification - A machine learning project in which we need to find donors for *charity.*
+- [Donor Identification](https://github.com/gouravaich/finding-donors-for-charity) - A machine learning project in which we need to find donors for *charity.*
 - [US Charities](https://github.com/staceb/charities_in_the_united_states) -  Charity exploration and machine learning. 
-- [Charity Effectiveness](https://github.com/LauraChen/02-Metis-Web-Scraping)
-- -  Scraping online data about *charities* to understand effectiveness
+- [Charity Effectiveness](https://github.com/LauraChen/02-Metis-Web-Scraping) -  Scraping online data about *charities* to understand effectiveness
 
 <a name="public-election"></a>
 #### Election Analysis
@@ -912,7 +913,7 @@ Also, a listed repository should be deprecated if:
 - [Water Modelling](https://github.com/awracms/awra_cms_older) - Australian Water Resource Assessment (AWRA) Community Modelling System.
 - [Drought Restrictions](https://github.com/datadesk/california-ccscore-analysis) - A Los Angeles Times analysis of water usage after the state eased drought restrictions
 - [Flood Prediction](https://github.com/cadrev/lstm-flood-prediction) - Applying LSTM on river water level data
-- [Sewage Overflow](https://github.com/jesseanddd/sewer-overflow) -  Insights into the sanitary sewage overflow (SSO).
+- [Sewage Overflow](https://github.com/jesseanddd/sewer-overflow) -  Insights into the sanitary sewage overflow (SSO). - This has been removed
 - [Water Accounting](https://github.com/johnpfay/USWaterAccounting) - Assembles water budget data for the US from existing data source
 - [Air Quality Prediction](https://github.com/txytju/air-quality-prediction) - Predict air quality(aq) in Beijing and London in the next 48 hours.
 
@@ -926,7 +927,7 @@ Also, a listed repository should be deprecated if:
 - [Demand Estimation](https://github.com/Lemma1/DPFE) - Implementation of dynamic origin-destination demand estimation.
 - [Congestion Analysis](https://github.com/hackoregon/transportation-congestion-analysis) -  Transportation systems analysis
 - [TS Analysis](https://github.com/nishanthgampa/Time-Series-Analysis-on-Transportation-Data) - Time series analysis on transportation data.
-- [Network Graph Subway](https://github.com/fangshulin/Vulnerability-Analysis-for-Transportation-Networks) - Vulnerability analysis for transportation networks. 
+- [Network Graph Subway](https://github.com/fangshulin/Vulnerability-Analysis-for-Transportation-Networks) - Vulnerability analysis for transportation networks. - Have been taken down
 - [Transportation Inefficiencies](https://github.com/akpen/Stockholm-0.1) - Quantifying the inefficiencies of Transportation Networks
 - [Train Optimisation](https://github.com/crowdAI/train-schedule-optimisation-challenge-starter-kit) - Train schedule optimisation 
 - [Traffic Prediction](https://github.com/mratsim/McKinsey-SmartCities-Traffic-Prediction) - multi attention recurrent neural networks for time-series (city traffic) 
