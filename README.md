@@ -23,7 +23,7 @@ A curated list of applied machine learning and data science notebooks and librar
 ***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in any of the industries listed below. If you are a **[**analytical, computational, statistical, quantitive**]** researcher/analyst in field **X** or a field **X** **[**machine learning engineer, data scientist, modeler, programmer**]** then your contribution will be greatly appreciated.   
 
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/).
+If you want to contribute to this list (please do), send me a pull request or contact me [@dereknow](https://twitter.com/dereknow) or on [linkedin](https://www.linkedin.com/in/snowderek/) or get in contact on the website [FirmAI](https://www.firmai.org).
 Also, a listed repository should be deprecated if:
 
 * Repository's owner explicitly say that "this library is not maintained".
