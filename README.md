@@ -9,7 +9,7 @@
 
 Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). 
 
-Highlight in **YELLOW** to get your pacakge added, you can also just add it yourself with a **pull request**. 
+Highlight in **YELLOW** to get your package added, you can also just add it yourself with a **pull request**. 
 
 
 
