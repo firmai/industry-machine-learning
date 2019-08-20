@@ -160,7 +160,7 @@ Also, a listed repository should be deprecated if:
 - [Restaurant Success](https://github.com/alifier/Restaurant_success_model) - Predict whether a restaurant is going to fail. 
 - [Predict Michelin](https://github.com/josephofiowa/dc-michelin-challenge/tree/master/submissions) - Predict the likelihood that restaurant is a Michelin restaurant. 
 - [Restaurant Inspection](https://github.com/gzsuyu/Data-Analysis-NYC-Restaurant-Inspection-Data) - An inspection analysis to see if cleanliness is related to rating.
-- [Sales](https://github.com/gzsuyu/Data-Analysis-NYC-Restaurant-Inspection-Data) - Restaurant sales forecasting with LTSM.
+- [Sales](https://github.com/ayeright/sales-forecast-lstm) - Restaurant sales forecasting with LSTM.
 - [Visitor Forecasting](https://github.com/anki1909/Recruit-Restaurant-Visitor-Forecasting) - Reservation and visitation number prediction. 
 - [Restaurant Profit](https://github.com/everAspiring/RegressionAnalysis) - Restaurant regression analysis. 
 - [Competition](https://github.com/klin90/missinglink) - Restaurant competitiveness analysis.
