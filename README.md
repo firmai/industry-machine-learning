@@ -161,6 +161,14 @@ Also, a listed repository should be deprecated if:
 - [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
 - [121 Essential Machine Learning Questions & Answers](https://elitedatascience.com/mlqa-reading-list)
 
+### Reviews:
+
+- [Glassdoor](https://www.glassdoor.com/index.htm) - Best employee narratives.
+- [Indeed](https://www.indeed.com/) - Best coverage.
+- [Kununu](https://www.kununu.com/us) - Best well-rounded infromation.
+- [Comparably](https://www.comparably.com/) - Best comparison functionality. 
+- [InHerSight](https://www.inhersight.com/) - Best female-friendly perspective.
+
 <a name="accommodation"></a>
 ## Accommodation & Food
 
