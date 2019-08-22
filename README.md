@@ -958,6 +958,16 @@ Also, a listed repository should be deprecated if:
 - [Retail Cohort](https://github.com/finnqiao/cohort_online_retail) - Cohort analysis. 
 
 
+# ML/DS Career Section
+
+### Platforms:
+[Triplebyte](https://triplebyte.com) - Take a quiz. Get offers from multiple top tech companies at once.
+[Toptal](https://www.toptal.com/) - Developers seeking to gain entry into the Toptal community are put through a battery of personality and technical tests.
+[Hired](https://hired.com/) - Hired matches employers with qualified candidates through a combination of in-house algorithms and online support.
+[Scalable Path](https://www.scalablepath.com/) - Scalable Path is a premium talent matching service.
+[Kaggle](https://www.kaggle.com/jobs) - Scalable Path is a premium talent matching service.
+
+
 ------------------
 Subscribe to the new reddit sub for **datascience projects**: https://www.reddit.com/r/datascienceproject/
 
