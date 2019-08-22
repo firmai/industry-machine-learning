@@ -958,5 +958,6 @@ Also, a listed repository should be deprecated if:
 - [Retail Cohort](https://github.com/finnqiao/cohort_online_retail) - Cohort analysis. 
 
 
+------------------
 Subscribe to the new reddit sub for **datascience projects**: https://www.reddit.com/r/datascienceproject/
 
