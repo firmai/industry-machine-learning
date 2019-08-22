@@ -958,7 +958,7 @@ Also, a listed repository should be deprecated if:
 - [Retail Cohort](https://github.com/finnqiao/cohort_online_retail) - Cohort analysis. 
 
 
-# ML/DS Career Section
+## ML/DS Career Section for Applied Machine Learning
 
 ### Platforms:
 1. [Triplebyte](https://triplebyte.com) - Take a quiz. Get offers from multiple top tech companies at once.
@@ -967,6 +967,18 @@ Also, a listed repository should be deprecated if:
 1. [Scalable Path](https://www.scalablepath.com/) - Scalable Path is a premium talent matching service.
 1. [Kaggle](https://www.kaggle.com/jobs) - Scalable Path is a premium talent matching service.
 
+### Interviews:
+
+1. [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
+1. [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
+1. [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
+1. [Top 50 Machine learning Interview questions & Answers](http://career.guru99.com/top-50-interview-questions-on-machine-learning/)
+1. [Machine Learning Engineer interview questions](https://resources.workable.com/machine-learning-engineer-interview-questions)
+1. [Popular Machine Learning Interview Questions](http://www.learn4master.com/machine-learning/popular-machine-learning-interview-questions)
+1. [What are some common Machine Learning interview questions?](https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions)
+1. [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
+1. [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
+1. [121 Essential Machine Learning Questions & Answers](https://elitedatascience.com/mlqa-reading-list)
 
 ------------------
 Subscribe to the new reddit sub for **datascience projects**: https://www.reddit.com/r/datascienceproject/
