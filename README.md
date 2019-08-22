@@ -987,7 +987,10 @@ Also, a listed repository should be deprecated if:
 - [Dwell Time](https://github.com/arvindkarir/retail) - Customer dwell time and other analysis. 
 - [Retail Cohort](https://github.com/finnqiao/cohort_online_retail) - Cohort analysis. 
 
-
+Sponsors
 ------------------
-Subscribe to the new reddit sub for **datascience projects**: https://www.reddit.com/r/datascienceproject/
+- [Triplebyte](https://triplebyte.com/a/Nosq7GM/s) is building an objective and empirically validated software engineering recruitment process. We don’t look at resumes, just at whether you can code. 
+- [DataScienceProject Subreddit](https://www.reddit.com/r/datascienceproject/) Subscribe to the new reddit sub for **datascience projects**: https://www.reddit.com/r/datascienceproject/
+
+
 
