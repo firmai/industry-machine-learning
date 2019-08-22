@@ -990,7 +990,8 @@ Also, a listed repository should be deprecated if:
 Sponsors
 ------------------
 - [Triplebyte](https://triplebyte.com/a/Nosq7GM/s) is building an objective and empirically validated software engineering recruitment process. We don’t look at resumes, just at whether you can code. 
-- [DataScienceProject Subreddit](https://www.reddit.com/r/datascienceproject/) Subscribe to the new reddit sub for **datascience projects**: https://www.reddit.com/r/datascienceproject/
+- [DataScienceProject](https://www.reddit.com/r/datascienceproject/) Subscribe to the new reddit sub for **datascience projects**
+- [FirmAI](https://www.firmai.org/) Responsible open source business automation. 
 
 
 
