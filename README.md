@@ -140,6 +140,7 @@ Also, a listed repository should be deprecated if:
 <!-- /MarkdownTOC -->
 
 ## ML/DS Career Section for Industry Machine Learning
+See [data-science-career repo](https://github.com/firmai/data-science-career) for more. 
 
 ### Platforms:
 1. [Triplebyte](https://triplebyte.com/a/Nosq7GM/d) - Take a quiz. Get offers from multiple top tech companies at once.
