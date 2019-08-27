@@ -7,7 +7,7 @@
 ---
 </br>
 
-Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). 
+Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). Or simply add it to this subreddit, [r/datascienceproject](https://www.reddit.com/r/datascienceproject/) 
 
 Highlight in **YELLOW** to get your package added, you can also just add it yourself with a **pull request**. 
 
@@ -18,7 +18,7 @@ Highlight in **YELLOW** to get your package added, you can also just add it your
 </p>
 
 
-A curated list of applied machine learning and data science notebooks and libraries accross different industries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`.
+A curated list of applied machine learning and data science notebooks and libraries accross different industries. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. The catalogue is inspired by `awesome-machine-learning`. [r/datascienceproject](https://www.reddit.com/r/datascienceproject/) is a subreddit where you can share all your data science projects. 
 
 ***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in any of the industries listed below. If you are a **[**analytical, computational, statistical, quantitive**]** researcher/analyst in field **X** or a field **X** **[**machine learning engineer, data scientist, modeler, programmer**]** then your contribution will be greatly appreciated.   
 
