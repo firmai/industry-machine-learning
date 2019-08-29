@@ -146,7 +146,6 @@ See [data-science-career repo](https://github.com/firmai/data-science-career) fo
 1. [Triplebyte](https://triplebyte.com/a/Nosq7GM/d) - Take a quiz. Get offers from multiple top tech companies at once.
 1. [Toptal](https://www.toptal.com/) - Developers seeking to gain entry into the Toptal community are put through a battery of personality and technical tests.
 1. [Hired](https://hired.com/) - Hired matches employers with qualified candidates through a combination of in-house algorithms and online support.
-1. [Scalable Path](https://www.scalablepath.com/) - Scalable Path is a premium talent matching service.
 1. [Kaggle](https://www.kaggle.com/jobs) - Scalable Path is a premium talent matching service.
 
 ### Interviews:
