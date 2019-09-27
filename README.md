@@ -143,7 +143,7 @@ Also, a listed repository should be deprecated if:
 See [data-science-career repo](https://github.com/firmai/data-science-career) for more. 
 
 ### Platforms:
-1. [Triplebyte](https://triplebyte.com/a/Nosq7GM/d) - Take a quiz. Get offers from multiple top tech companies at once.
+1. [Triplebyte](https://triplebyte.com/a/Nosq7GM/d) - Take a quiz. Get offers from multiple top tech companies at once (now have a machine learning track).
 1. [Toptal](https://www.toptal.com/) - Developers seeking to gain entry into the Toptal community are put through a battery of personality and technical tests.
 1. [Hired](https://hired.com/) - Hired matches employers with qualified candidates through a combination of in-house algorithms and online support.
 1. [Kaggle](https://www.kaggle.com/jobs) - Scalable Path is a premium talent matching service.
