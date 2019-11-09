@@ -1,6 +1,6 @@
 # Machine Learning and Data Science Applications in Industry
 
-### Admin
+### DEPRECATED REPOSITORY
 
 
 #### This repository is DEPRECATED. A [collaboratory repository](https://docs.google.com/forms/d/e/1FAIpQLSfy4afrksggqjLa-UkbrDhXnZCKYxbPs4bMuPkcNmo8s5jgeQ/viewform?usp=sf_link) has been created instead. In order to join you have to [submit](https://docs.google.com/forms/d/e/1FAIpQLSfy4afrksggqjLa-UkbrDhXnZCKYxbPs4bMuPkcNmo8s5jgeQ/viewform?usp=sf_link) only two repositories, check uniqueness against the [Google Sheets URLs](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing) 
