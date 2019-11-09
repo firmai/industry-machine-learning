@@ -7,6 +7,7 @@
 
 ##### Also instead of "watching"  you can **join** the link-letter, there is already about 600 sign-ups, first email will be sent out Feb 2020. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
 
+---
 
 Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). Or simply add it to this subreddit, [r/datascienceproject](https://www.reddit.com/r/datascienceproject/) 
 
