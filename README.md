@@ -142,15 +142,6 @@ See [data-science-career repo](https://github.com/firmai/data-science-career) fo
 1. [Hired](https://hired.com/) - Hired matches employers with qualified candidates through a combination of in-house algorithms and online support.
 1. [Kaggle](https://www.kaggle.com/jobs) - Scalable Path is a premium talent matching service.
 
-### Interviews:
-
-- [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
-- [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
-- [Top 50 Machine learning Interview questions & Answers](http://career.guru99.com/top-50-interview-questions-on-machine-learning/)
-- [Machine Learning Engineer interview questions](https://resources.workable.com/machine-learning-engineer-interview-questions)
-- [Popular Machine Learning Interview Questions](http://www.learn4master.com/machine-learning/popular-machine-learning-interview-questions)
-- [121 Essential Machine Learning Questions & Answers](https://elitedatascience.com/mlqa-reading-list)
-
 ### Reviews:
 
 - [Glassdoor](https://www.glassdoor.com/index.htm) - Best employee narratives.
