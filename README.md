@@ -1,17 +1,11 @@
 # Machine Learning and Data Science Applications in Industry
 
 ### Admin
-##### Also instead of "watching"  you can **join** the link-letter, it's already being sent out to about 90 people and you are free to join too. I will start sending it out to the public by November 2019. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
-
-#### To encourage active participation, I have created a private repo where all future edits and entries will be made starting November 2019 after which this project will be deprecated. To join indefinitely you have to submit two unique open source python ML or DS projects to d.snow@firmai.org (unique to this list only, it needen't be your own). Please submit them now so that I can put you on the list. How to know if your contribution is unique: search the [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing) file for the respective URL.
----
-</br>
+##### Also instead of "watching"  you can **join** the link-letter, it's already being sent out to about 600 people and you are free to join too. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
 
 Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). Or simply add it to this subreddit, [r/datascienceproject](https://www.reddit.com/r/datascienceproject/) 
 
 Highlight in **YELLOW** to get your package added, you can also just add it yourself with a **pull request**. 
-
-
 
 <p align="center">
   <img src="https://github.com/firmai/industry-machine-learning/raw/master/assets/industry.png">
