@@ -1,13 +1,15 @@
 # Machine Learning and Data Science Applications in Industry
 
-### DEPRECATED REPOSITORY
+### Admin
 
 
-#### This repository is DEPRECATED. For the last 6 months and future links, a [collaboratory repository](https://docs.google.com/forms/d/e/1FAIpQLSfy4afrksggqjLa-UkbrDhXnZCKYxbPs4bMuPkcNmo8s5jgeQ/viewform?usp=sf_link) has been created instead. In order to join you have to [submit](https://docs.google.com/forms/d/e/1FAIpQLSfy4afrksggqjLa-UkbrDhXnZCKYxbPs4bMuPkcNmo8s5jgeQ/viewform?usp=sf_link) two repositories, check uniqueness against the [Google Sheets URLs](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). Projecting 100 new submissions by the end of next month.  
+#### This repository would only be updated once yearly. For the last 6 months and all future links, a [collaboratory repository](https://docs.google.com/forms/d/e/1FAIpQLSfy4afrksggqjLa-UkbrDhXnZCKYxbPs4bMuPkcNmo8s5jgeQ/viewform?usp=sf_link) has been created instead. In order to join you have to [submit](https://docs.google.com/forms/d/e/1FAIpQLSfy4afrksggqjLa-UkbrDhXnZCKYxbPs4bMuPkcNmo8s5jgeQ/viewform?usp=sf_link) two repositories, check uniqueness against the [Google Sheets URLs](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). Projecting 100 new submissions by the end of next month.  
 
 ##### Also instead of "watching"  you can **join** the link-letter, there is already about 600 sign-ups, first email will be sent out Feb 2020. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
 
 ---
+
+If you enjoy this repository, you would also like [google-colab-notebooks](https://github.com/firmai/google-colab-notebooks): Google Colaboratory End-to-End Notebooks and Repositories https://google-colab.com/
 
 Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). Or simply add it to this subreddit, [r/datascienceproject](https://www.reddit.com/r/datascienceproject/) 
 
