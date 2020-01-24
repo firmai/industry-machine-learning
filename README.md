@@ -9,7 +9,7 @@
 
 ---
 
-If you enjoy this repository, you would also like [google-colab-notebooks](https://github.com/firmai/google-colab-notebooks): Google Colaboratory End-to-End Notebooks and Repositories https://google-colab.com/
+If you enjoy this repository, you would also like [google-colab-notebooks](https://github.com/firmai/google-colab-notebooks): Google Colaboratory End-to-End Notebooks and Repositories https://google-colab.com/. Another FirmAI project, [PandaPy](https://github.com/firmai/pandapy) has the speed of NumPy and the usability of Pandas (10x to 50x faster). 
 
 Please add your tools and notebooks to this [Google Sheet](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). Or simply add it to this subreddit, [r/datascienceproject](https://www.reddit.com/r/datascienceproject/) 
 
