@@ -5,7 +5,7 @@
 
 #### This repository would be updated once yearly. For the last 6 months and all future links, a [collaboratory repository](https://docs.google.com/forms/d/e/1FAIpQLSfy4afrksggqjLa-UkbrDhXnZCKYxbPs4bMuPkcNmo8s5jgeQ/viewform?usp=sf_link) has been created instead. In order to join you have to [submit](https://docs.google.com/forms/d/e/1FAIpQLSfy4afrksggqjLa-UkbrDhXnZCKYxbPs4bMuPkcNmo8s5jgeQ/viewform?usp=sf_link) two repositories, check uniqueness against the [Google Sheets URLs](https://docs.google.com/spreadsheets/d/1pVdV3r4X3k5D1UtKbhMTmjU8mJTZSLAhJzycurgh_o4/edit?usp=sharing). Projecting 100 new submissions by the end of next month.  
 
-##### Also instead of "watching"  you can **join** the link-letter, there is already about 600 sign-ups, first email will be sent out Feb 2020. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
+##### Also instead of "watching"  you can **join** the link-letter, there is already about 8000 sign-ups, first email will be sent out Feb 2020. Monthly link-sharing list: https://mailchi.mp/ec4942d52cc5/firmai. 
 
 ---
 
