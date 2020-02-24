@@ -680,6 +680,7 @@ See [data-science-career repo](https://github.com/firmai/data-science-career) fo
 - [Chat Bot](https://github.com/akarazeev/LegalTech) - Chat-bot and email notifications.
 - [Congress API](https://github.com/propublica/congress-api-docs) - ProPublica congress API access. 
 - [Data Generator GDPR](https://github.com/toningega/Data_Generator) - Dummy data generator for GDPR compliance
+- [Blackstone](https://github.com/ICLRandD/Blackstone) - spaCy pipeline and model for NLP on unstructured legal text.
 
 
 <a name="legal-pr"></a>
