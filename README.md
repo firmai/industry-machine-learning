@@ -3,7 +3,7 @@
 ### Admin
 
 Other FirmAI projects include **[AtsPy](https://github.com/firmai/atspy)** automating Python's best time series models and
-**[PandaPy](https://github.com/firmai/pandapy)** a data structure solutions that has the speed of NumPy and the usability of Pandas (10x to 50x faster).
+**[PandaPy](https://github.com/firmai/pandapy)** a data structure solutions that has the speed of NumPy and the usability of Pandas (10x to 50x faster), and **[FairPut](https://github.com/firmai/fairput)** a holistic approach to implement fair machine learning outputs at the individual and group level.
 
 If you enjoy this repository, you would also like [google-colab-notebooks](https://github.com/firmai/google-colab-notebooks): Google Colaboratory End-to-End Notebooks and Repositories https://google-colab.com/. 
 
