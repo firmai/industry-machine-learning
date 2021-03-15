@@ -1,5 +1,7 @@
 # Machine Learning and Data Science Applications in Industry
 
+**Please contact me to take over and revamp this repo (it gets around 120k views and 700k clicks per year), I don't have time to update or maintain it - message 15/03/2021**
+
 ### Admin
 
 Have a look at the newly started [FirmAI Medium](https://medium.com/firmai) publication where we have experts of AI in business, write about their topics of interest. 
