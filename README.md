@@ -1,6 +1,12 @@
 # Machine Learning and Data Science Applications in Industry
 
-**Please contact me to take over and revamp this repo (it gets around 120k views and 700k clicks per year), I don't have time to update or maintain it - message 15/03/2021**
+---------
+
+## Sov.ai Research Lab (Sponsorship)
+
+Animated Investment Management Research at [Sov.ai](https://sov.ai) — Sponsoring open source AI, Machine learning, and Data Science initiatives.
+
+---------
 
 ### Admin
 
@@ -975,9 +981,9 @@ See [data-science-career repo](https://github.com/firmai/data-science-career) fo
 
 Sponsors
 ------------------
-- [Triplebyte](https://triplebyte.com/a/Nosq7GM/s) -  is building an objective and empirically validated software engineering recruitment process. We don’t look at resumes, just at whether you can code. 
-- [DataScienceProject](https://www.reddit.com/r/datascienceproject/) - Subscribe to the new reddit sub for datascience projects.
-- [FirmAI](https://www.firmai.org/) - Responsible open source business automation. 
+- [Sov.ai](https://sov.ai)  -  Animated Investment Management Research
+
+---------
 
 
 
