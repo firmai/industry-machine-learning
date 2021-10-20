@@ -2,12 +2,6 @@
 
 ---------
 
-## Sov.ai Research Lab (Sponsorship)
-
-Animated Investment Management Research at [Sov.ai](https://sov.ai) — Sponsoring open source AI, Machine learning, and Data Science initiatives.
-
----------
-
 ### Admin
 
 Have a look at the newly started [FirmAI Medium](https://medium.com/firmai) publication where we have experts of AI in business, write about their topics of interest. 
