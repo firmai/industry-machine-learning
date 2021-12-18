@@ -2,6 +2,14 @@
 
 ---------
 
+Finance Quant Machine Learning Resource
+------------------
+- [ML-Quant.com](https://www.ml-quant.com/)  -  Automated Research Repository 
+
+---------
+
+
+
 ### Admin
 
 Have a look at the newly started [FirmAI Medium](https://medium.com/firmai) publication where we have experts of AI in business, write about their topics of interest. 
@@ -973,11 +981,6 @@ See [data-science-career repo](https://github.com/firmai/data-science-career) fo
 - [Dwell Time](https://github.com/arvindkarir/retail) - Customer dwell time and other analysis. 
 - [Retail Cohort](https://github.com/finnqiao/cohort_online_retail) - Cohort analysis. 
 
-Sponsors
-------------------
-- [Sov.ai](https://sov.ai)  -  Animated Investment Management Research
-
----------
 
 
 
