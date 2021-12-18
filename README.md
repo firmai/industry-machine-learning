@@ -2,7 +2,7 @@
 
 ---------
 
-Finance Quant Machine Learning Resource
+Finance Quant Machine Learning
 ------------------
 - [ML-Quant.com](https://www.ml-quant.com/)  -  Automated Research Repository 
 
