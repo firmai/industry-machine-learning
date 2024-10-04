@@ -45,13 +45,6 @@ If you’re excited about leveraging your expertise in machine learning and fina
 Join us in shaping the future of investment insights and making a meaningful impact in the world of finance!
 
 
-Finance Quant Machine Learning
-------------------
-- [ML-Quant.com](https://www.ml-quant.com/)  -  Automated Research Repository 
-
----------
-
-
 
 ### Admin
 
