@@ -812,6 +812,9 @@ See [data-science-career repo](https://github.com/firmai/data-science-career) fo
 - [Fashion](https://github.com/khanhnamle1994/fashion-recommendation) **-** A clothing retrieval and visual recommendation model for fashion images
 
 
+<a name="miscellaneous-developer-tools"></a>
+**Developer Tools**
+[Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 
 <a name="physics"></a>
 ## Physics
